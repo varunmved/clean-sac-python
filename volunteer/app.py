@@ -1,4 +1,5 @@
 from eventbrite import Eventbrite
+from firebase import firebase
 
 
 eventbrite = Eventbrite('7C3O54QSC636WO5OJVJK')
