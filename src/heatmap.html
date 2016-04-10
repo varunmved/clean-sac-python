@@ -7,18 +7,19 @@
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>	
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="css/heatmap.css">
 
 </head>
 <body>
 	<div id="app">
 		<div class="app__navbar">
 			<span id="togglebtn"><i class="fa fa-2x fa-bars"></i></span>
-			<span class="title">Clean Sac</span>
+			<span class="title">Heat Map</span>
 		</div>
 		<div id="dropdown">
 			<ul>
 				<li><a href="#">Report Trash</a></li>
-				<li><a href="heatmap.html">Trash Map</a></li>
+				<li><a href="#">Trash Map</a></li>
 				<li><a href="#">About</a></li>
 				<li><a href="#">Sign in</a></li>
 			</ul>
@@ -30,7 +31,7 @@
 
 		<div id="slideupBtn">
 			<div>
-				<i class="fa fa-trash"></i>
+				<span>Filters</span>
 			</div>
 		</div>
 		<div id="trashReport">
@@ -60,9 +61,10 @@
 
 		</div>
 	</div>
-	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtYUGKLK0fn0sGHMkaKPlIJBdsFyaKu9A&libraries=visualization"></script>
+
 	<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-	<script type="text/javascript" src="js/main.js"></script>
+	<script src="js/googleHeatmap.js"></script>
 
 </body>
 </html>

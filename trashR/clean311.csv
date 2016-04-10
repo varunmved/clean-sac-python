@@ -1,0 +1,436 @@
+"","CASE_NBR","CREATED","CLOSED","STATUS","TYPE","DESCRIPTION","address","LAT","LON"
+"1",31396420,"1/3/2016 1:31:18 PM","","Open","Traffic Sign Complaints","Street Light Complaints","3229 DEODAR ST, Sacramento, CA, 95608",38.623268,-121.31855
+"2",31396612,"1/4/2016 8:21:28 AM","","Open","Illegal Dumping","Illegal dumping - 101807","4047 43RD ST, Sacramento, CA, 95820",38.537672,-121.456444
+"3",31396828,"1/4/2016 10:02:50 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","5845 SHENANDOAH DR, Sacramento, CA, 95841",38.672582,-121.339538
+"4",31398791,"1/5/2016 8:57:31 PM","","Open","Traffic Sign Complaints","Street Light Complaints","5948 CLOVER MANOR WAY, Sacramento, CA, 95824",38.517697,-121.44661
+"5",31399663,"1/6/2016 5:06:25 PM","","Open","Pavement","Ditches/Culverts","11111 SIMMERHORN RD, Sacramento, CA, 95632",38.332964,-121.262945
+"6",31400674,"1/7/2016 4:20:49 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3301 BLACK EAGLE DR, Sacramento, CA, 95843",38.723751,-121.387309
+"7",31401872,"1/10/2016 6:40:02 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3301 BLACK EAGLE DR, Sacramento, CA, 95843",38.723751,-121.387309
+"8",31401998,"1/11/2016 8:09:22 AM","","Open","Tree","Tree - 102967","3410 CLUB LN, Sacramento, CA, 95821",38.626232,-121.385174
+"9",31401999,"1/11/2016 8:09:23 AM","","Open","Tree","Tree - 102966","3205 POPE AVE, Sacramento, CA, 95821",38.625111,-121.389327
+"10",31402000,"1/11/2016 8:09:23 AM","","Open","Illegal Dumping","Illegal dumping - 102972","2912 WATT AVE, Sacramento, CA, 95821",38.618044,-121.382952
+"11",31403696,"1/12/2016 1:44:53 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3625 EAGLE CREST CIR, Sacramento, CA, 95843",38.72192,-121.379555
+"12",31404125,"1/13/2016 9:01:23 AM","","Open","Illegal Dumping","Zoning","7423 FAIR OAKS BLVD,Unit 8, Sacramento, CA, 95608",38.636026,-121.328109
+"13",31405084,"1/14/2016 8:19:23 AM","","Open","Pavement","Ditches/Culverts","5630 FRONTIER WAY, Sacramento, CA, 95608",38.608368,-121.333529
+"14",31406176,"1/15/2016 10:18:52 AM","","Open","Pavement","Pothole Sidewalk Complaints","5936 CLOVER MANOR WAY, Sacramento, CA, 95824",38.518086,-121.446546
+"15",31406246,"1/15/2016 10:53:59 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8936 CANBERRA DR, Sacramento, CA, 95826",38.5426,-121.371026
+"16",31406510,"1/15/2016 2:00:35 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 103936","5101 VISTA SIERRA DR, Sacramento, CA, 95843",38.519878,-121.465096
+"17",31407091,"1/17/2016 2:10:36 PM","","Open","Illegal Dumping","Illegal dumping - 104191","5952 MENDOCINO BLVD, Sacramento, CA, 95824",38.518645,-121.46189
+"18",31407492,"1/18/2016 1:10:34 PM","","Open","Tree","Tree - 104308","3201 MOUNTAIN VIEW AVE, Sacramento, CA, 95821",38.622989,-121.393746
+"19",31407969,"1/19/2016 10:11:22 AM","","Open","Abandoned Vehicles","Abandoned Vehicle - 104452","5086 SHELL ST, Sacramento, CA, 95660",38.659879,-121.375824
+"20",31408121,"1/19/2016 11:12:42 AM","","Open","Tree","Tree Complaints","7848 GULL WAY, Sacramento, CA, 95843",38.711084,-121.391516
+"21",31408455,"1/19/2016 2:03:32 PM","","Open","Pavement","Pavement","5409 BRANINBURG CT, Sacramento, CA, 95608",38.615101,-121.338643
+"22",31408565,"1/19/2016 3:02:23 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 104496","7005 SPRIG DR, Sacramento, CA, 95842",38.694689,-121.357348
+"23",31408940,"1/20/2016 7:10:59 AM","","Open","Traffic Sign Complaints","Street Light Complaints","9252 CALDERA WAY, Sacramento, CA, 95826",38.558115,-121.355433
+"24",31409430,"1/20/2016 12:36:36 PM","","Open","Tree","Tree Complaints","6590 FLORIN RD, Sacramento, CA, 95828",38.495944,-121.427183
+"25",31410540,"1/21/2016 1:37:30 PM","","Open","Pavement","Pavement","8642 BRIARBROOK CIR, Sacramento, CA, 95662",38.695969,-121.24269
+"26",31410886,"1/21/2016 5:20:36 PM","","Open","Illegal Dumping","JUNK AND RUBBISH","8701 GREENBACK LN, Sacramento, CA, 95662",38.678554,-121.235015
+"27",31411215,"1/22/2016 10:36:56 AM","","Open","Tree","Tree Complaints","4140 ERNESTINE WAY, Sacramento, CA, 95660",38.680412,-121.367078
+"28",31411643,"1/22/2016 3:36:55 PM","","Open","Traffic Sign Complaints","Street Light Complaints","3801 43RD AVE, Sacramento, CA, 95824",38.513903,-121.465219
+"29",31412011,"1/24/2016 1:11:32 AM","","Open","Graffiti","Graffiti - 105344","2310 WYDA WAY, Sacramento, CA, 95825",38.599973,-121.410062
+"30",31412130,"1/24/2016 8:31:24 PM","","Open","Illegal Dumping","Illegal dumping - 105477","5826 POMEGRANATE AVE, Sacramento, CA, 95823",38.484222,-121.435879
+"31",31412264,"1/25/2016 9:01:22 AM","","Open","Abandoned Vehicles","Abandoned Vehicle - 105556","4512 MARBLE WAY, Sacramento, CA, 95608",38.64437,-121.321814
+"32",31412730,"1/25/2016 1:30:31 PM","","Open","Pavement","Pothole Sidewalk Complaints","7314 ELSIE AVE, Sacramento, CA, 95823",38.474339,-121.418969
+"33",31412792,"1/25/2016 2:01:17 PM","","Open","Traffic Sign Complaints","Street lighting - 105617","8660 HILLMON CT, Sacramento, CA, 95828",38.492244,-121.384421
+"34",31412855,"1/25/2016 2:41:24 PM","","Open","Illegal Dumping","Illegal dumping - 105628","6509 WESLEY AVE, Sacramento, CA, 95823",38.507659,-121.460963
+"35",31412976,"1/25/2016 3:51:19 PM","","Open","Illegal Dumping","Illegal dumping - 105652","7609 WOODGLEN DR, Sacramento, CA, 95628",38.643437,-121.268207
+"36",31413791,"1/26/2016 1:31:27 PM","","Open","Traffic Sign Complaints","Street Light Complaints","5000 TAMARISK CT, Sacramento, CA, 95842",38.683121,-121.3472
+"37",31414287,"1/27/2016 8:28:49 AM","","Open","Traffic Sign Complaints","Street Light Complaints","3367 LERWICK RD, Sacramento, CA, 95821",38.633803,-121.386517
+"38",31414521,"1/27/2016 11:01:11 AM","","Open","Graffiti","Graffiti Private Property","4900 ROSEVILLE RD, Sacramento, CA, 95660",38.655069,-121.386993
+"39",31414535,"1/27/2016 11:09:58 AM","","Open","Stray Animals","Stray Animal","7405 WINDING WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"40",31414801,"1/27/2016 2:02:49 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","5925 RAMPART DR, Sacramento, CA, 95608",38.647887,-121.325082
+"41",31414896,"1/27/2016 3:21:21 PM","","Open","Graffiti","Graffiti - 106049","10770 STOCKTON BLVD, Sacramento, CA, 95757",38.3649,-121.351361
+"42",31415055,"1/27/2016 8:30:40 PM","","Open","Traffic Sign Complaints","Street lighting - 106085","8242 LONELY HILL WAY, Sacramento, CA, 95843",38.719687,-121.369453
+"43",31415232,"1/28/2016 9:51:53 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8705 CRYSTAL RIVER WAY, Sacramento, CA, 95828",38.475572,-121.381159
+"44",31415660,"1/28/2016 3:30:35 PM","","Open","Graffiti","Graffiti - 106196","2721 EL CAMINO AVE, Sacramento, CA, 95821",38.61054,-121.398497
+"45",31415694,"1/28/2016 3:50:33 PM","","Open","Graffiti","Graffiti Private Property","9286 GREENBACK LN, Sacramento, CA, 95662",38.678121,-121.208001
+"46",31415888,"1/28/2016 9:29:16 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8428 WINDFORD WAY, Sacramento, CA, 95843",38.722739,-121.34279
+"47",31416083,"1/29/2016 10:14:22 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8901 MONTOYA ST, Sacramento, CA, 95826",38.559247,-121.371288
+"48",31416222,"1/29/2016 11:50:39 AM","","Open","Graffiti","Graffiti - 106330","2875 FULTON AVE, Sacramento, CA, 95821",38.617535,-121.401489
+"49",31416942,"1/31/2016 5:16:43 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","7006 CHANDLER DR, Sacramento, CA, 95828",38.498862,-121.423253
+"50",31417303,"2/1/2016 10:40:40 AM","","Open","Illegal Dumping","Illegal dumping - 106750","6155 39TH ST, Sacramento, CA, 95824",38.514525,-121.462679
+"51",31417441,"2/1/2016 12:10:28 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 106768","4105 JUSTIN WAY, Sacramento, CA, 95826",38.543895,-121.349822
+"52",31417442,"2/1/2016 12:11:19 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 106769","4108 JUSTIN WAY, Sacramento, CA, 95826",38.543609,-121.349976
+"53",31417615,"2/1/2016 2:11:16 PM","","Open","Tree","Tree - 106775","7070 STOCKTON BLVD, Sacramento, CA, 95823",38.498505,-121.43034
+"54",31417635,"2/1/2016 2:30:35 PM","","Open","Traffic Sign Complaints","Road traffic sign - 106780","5925 RAMPART DR,Unit 1, Sacramento, CA, 95608",38.647887,-121.325082
+"55",31417647,"2/1/2016 2:38:42 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","4451 WOODSON AVE, Sacramento, CA, 95821",38.629432,-121.36019
+"56",31417703,"2/1/2016 3:21:18 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 106806","6400 EVEREST WAY, Sacramento, CA, 95842",38.68183,-121.344243
+"57",31417989,"2/2/2016 7:51:58 AM","","Open","Graffiti","Graffiti Private Property","6620 MADISON AVE, Sacramento, CA, 95608",38.663416,-121.310165
+"58",31418016,"2/2/2016 8:11:12 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","4204 42ND AVE, Sacramento, CA, 95824",38.515091,-121.458169
+"59",31418512,"2/2/2016 1:19:50 PM","","Open","Traffic Sign Complaints","Street Light Complaints","2134 BUTANO DR, Sacramento, CA, 95825",38.605377,-121.386978
+"60",31418719,"2/2/2016 3:20:56 PM","","Open","Traffic Sign Complaints","Street lighting - 107039","8325 DRESSAGE WAY, Sacramento, CA, 95829",38.455336,-121.310763
+"61",31418794,"2/2/2016 4:09:48 PM","","Open","Pavement","Pavement","5024 WALNUT AVE, Sacramento, CA, 95841",38.657349,-121.345921
+"62",31418843,"2/2/2016 4:50:55 PM","","Open","Pavement","Pavement","11701 HOLLENBECK WAY, Sacramento, CA, 95670",38.624775,-121.240625
+"63",31418886,"2/2/2016 5:43:17 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","4713 CRIMSON CT, Sacramento, CA, 95842",38.696075,-121.355191
+"64",31418893,"2/2/2016 5:51:20 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 107078","6400 EVEREST WAY, Sacramento, CA, 95842",38.68183,-121.344243
+"65",31419164,"2/3/2016 10:16:11 AM","","Open","Traffic Sign Complaints","Traffic Sign Complaints","4600 B PKWY, Sacramento, CA, 95823",38.492342,-121.452233
+"66",31419698,"2/3/2016 4:11:23 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","8046 LOMAND CT, Sacramento, CA, 95828",38.465471,-121.377145
+"67",31419792,"2/3/2016 5:44:55 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","7240 JERRY WAY, Sacramento, CA, 95828",38.493741,-121.40279
+"68",31420180,"2/4/2016 12:07:43 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","7135 SUNSET AVE, Sacramento, CA, 95628",38.651869,-121.29947
+"69",31420285,"2/4/2016 1:28:42 PM","","Open","Pavement","Pavement","4820 MADISON AVE, Sacramento, CA, 95841",38.660984,-121.352693
+"70",31420457,"2/4/2016 3:32:37 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","8900 WOODMAN WAY, Sacramento, CA, 95826",38.564959,-121.371414
+"71",31420485,"2/4/2016 4:01:59 PM","","Open","Traffic Sign Complaints","Street Light Complaints","11886 POINT ROCK WAY, Sacramento, CA, 95670",38.643454,-121.26344
+"72",31420494,"2/4/2016 4:11:16 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 107420","8513 ARCADE OAKS CT, Sacramento, CA, 95662",38.643454,-121.26344
+"73",31420554,"2/4/2016 5:10:36 PM","","Open","Illegal Dumping","Illegal dumping - 107440","2223 MARCONI AVE, Sacramento, CA, 95821",38.618195,-121.415061
+"74",31420611,"2/5/2016 6:42:22 AM","","Open","Abandoned Vehicles","Abandoned Vehicle - 107493","3137 WHITNEY AVE, Sacramento, CA, 95821",38.628848,-121.390228
+"75",31420764,"2/5/2016 9:55:56 AM","","Open","Pavement","Ditches/Culverts","301 CHARLES AVE, Sacramento, CA, 95626",38.708028,-121.469113
+"76",31420948,"2/5/2016 12:04:52 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","9190 SCHMUCKLEY DR, Sacramento, CA, 95826",38.543958,-121.358186
+"77",31421086,"2/5/2016 1:50:32 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 107567","2029 GUNN RD, Sacramento, CA, 95608",38.601842,-121.34149
+"78",31421123,"2/5/2016 2:09:25 PM","","Open","Pavement","Pavement","7808 BELLINGRATH DR, Sacramento, CA, 95626",38.709528,-121.413722
+"79",31421139,"2/5/2016 2:19:44 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","9161 DUPONT WAY, Sacramento, CA, 95826",38.553656,-121.358891
+"80",31421322,"2/5/2016 5:05:45 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8192 SATIN SPAR WAY, Sacramento, CA, 95829",38.460055,-121.320035
+"81",31421543,"2/7/2016 7:11:27 AM","","Open","Traffic Sign Complaints","Street lighting - 107787","9529 ASIMOV WAY, Sacramento, CA, 95829",38.464049,-121.342825
+"82",31421671,"2/7/2016 7:20:36 PM","","Open","Traffic Sign Complaints","Street lighting - 107884","4364 GORHAM WAY, Sacramento, CA, 95655",38.544125,-121.270102
+"83",31421864,"2/8/2016 9:40:20 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","9092 SALMON FALLS DR, Sacramento, CA, 95826",38.56069,-121.366918
+"84",31421991,"2/8/2016 10:54:38 AM","","Open","Pavement","Ditches/Culverts","13327 APPLE RD, Sacramento, CA, 95693",38.448251,-121.16721
+"85",31422050,"2/8/2016 11:33:35 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8043 CLANFIELD WAY, Sacramento, CA, 95829",38.465478,-121.349704
+"86",31422136,"2/8/2016 12:29:14 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","8357 HAYFIELD CIR, Sacramento, CA, 95828",38.477575,-121.400908
+"87",31422139,"2/8/2016 12:30:49 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","8357 HAYFIELD CIR, Sacramento, CA, 95828",38.477575,-121.400908
+"88",31422202,"2/8/2016 1:03:05 PM","","Open","Tree","Tree Complaints","2301 PENNLAND DR, Sacramento, CA, 95825",38.608762,-121.394348
+"89",31422628,"2/8/2016 9:12:12 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 108081","2418 PENNLAND DR, Sacramento, CA, 95825",38.610235,-121.394484
+"90",31422670,"2/9/2016 7:43:35 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","3735 LENORE WAY, Sacramento, CA, 95660",38.657129,-121.377413
+"91",31423385,"2/9/2016 3:32:15 PM","","Open","Graffiti","Graffiti - 108207","6000 FAIR OAKS BLVD, Sacramento, CA, 95608",38.609854,-121.32882
+"92",31423464,"2/9/2016 4:25:53 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","5031 42ND ST, Sacramento, CA, 95820",38.529652,-121.457531
+"93",31423469,"2/9/2016 4:27:59 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","5031 42ND ST, Sacramento, CA, 95820",38.529652,-121.457531
+"94",31423536,"2/9/2016 5:42:19 PM","","Open","Traffic Sign Complaints","Street Light Complaints","2836 NORCADE CIR, Sacramento, CA, 95826",38.55863,-121.365889
+"95",31423537,"2/9/2016 5:45:27 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8137 VISALIA WAY, Sacramento, CA, 95828",38.461431,-121.406975
+"96",31423587,"2/9/2016 8:32:10 PM","","Open","Traffic Sign Complaints","Street lighting - 108235","8024 SPRINGARDEN WAY, Sacramento, CA, 95828",38.466427,-121.398025
+"97",31423591,"2/9/2016 9:02:16 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 108237","11528 LINDAY WAY, Sacramento, CA, 95670",38.616974,-121.251171
+"98",31423870,"2/10/2016 10:28:42 AM","","Open","Pavement","Pavement","5251 37TH AVE, Sacramento, CA, 95824",38.519528,-121.442243
+"99",31424084,"2/10/2016 12:52:11 PM","","Open","Traffic light","Traffic light - 108321","8709 FAIR OAKS BLVD, Sacramento, CA, 95608",38.636429,-121.300004
+"100",31424111,"2/10/2016 1:12:10 PM","","Open","Traffic light","Traffic light - 108328","11601 GOLD COUNTRY BLVD, Sacramento, CA, 95670",38.62533,-121.249912
+"101",31424156,"2/10/2016 1:46:55 PM","","Open","Pavement","Pavement","6501 W 4TH ST, Sacramento, CA, 95673",38.686214,-121.470793
+"102",31424202,"2/10/2016 2:10:59 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","4740 PACIFIC PARK WAY, Sacramento, CA, 95843",38.709293,-121.353153
+"103",31424261,"2/10/2016 2:52:12 PM","","Open","Graffiti","Graffiti - 108347","3416 AUBURN BLVD, Sacramento, CA, 95821",38.636819,-121.383725
+"104",31424278,"2/10/2016 3:02:08 PM","","Open","Graffiti","Graffiti - 108348","3911 WATT AVE, Sacramento, CA, 95821",38.635834,-121.383009
+"105",31424321,"2/10/2016 3:23:54 PM","","Open","Pavement","Pothole Sidewalk Complaints","641 FULTON AVE, Sacramento, CA, 95825",38.576369,-121.403457
+"106",31424436,"2/10/2016 5:00:20 PM","","Open","Pavement","Pothole - 108368","6800 BLACK DUCK WAY, Sacramento, CA, 95842",38.690134,-121.358267
+"107",31424484,"2/10/2016 6:32:07 PM","","Open","Illegal Dumping","Illegal dumping - 108380","3040 HOWE AVE,Unit 1, Sacramento, CA, 95821",38.620537,-121.415203
+"108",31424485,"2/10/2016 6:32:08 PM","","Open","Illegal Dumping","Illegal dumping - 108379","3100 HOWE AVE,Unit A1, Sacramento, CA, 95821",38.621715,-121.415279
+"109",31424521,"2/11/2016 5:52:17 AM","","Open","Abandoned Vehicles","Abandoned Vehicle - 108409","6633 SKYVIEW DR, Sacramento, CA, 95662",38.684374,-121.258476
+"110",31424524,"2/11/2016 6:18:32 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8538 TIOGAWOODS DR, Sacramento, CA, 95828",38.475528,-121.387973
+"111",31424526,"2/11/2016 6:22:12 AM","","Open","Pavement","Pothole - 108415","7321 LAW CT, Sacramento, CA, 95662",38.699374,-121.207609
+"112",31424604,"2/11/2016 8:52:53 AM","","Open","Traffic Sign Complaints","Street Light Complaints","9072 POSADA WAY, Sacramento, CA, 95826",38.554607,-121.36492
+"113",31424620,"2/11/2016 9:05:03 AM","","Open","Pavement","Pothole Sidewalk Complaints","6128 VIA CASITAS, Sacramento, CA, 95608",38.670134,-121.323512
+"114",31424785,"2/11/2016 10:51:30 AM","","Open","Sweeper Request","Sweeper Request","4016 HAPPY LN, Sacramento, CA, 95827",38.555235,-121.322443
+"115",31424871,"2/11/2016 11:50:06 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","4204 42ND AVE, Sacramento, CA, 95824",38.515091,-121.458169
+"116",31424884,"2/11/2016 12:02:22 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","8134 INGLESIDE WAY, Sacramento, CA, 95828",38.485035,-121.407261
+"117",31424900,"2/11/2016 12:11:36 PM","","Open","Graffiti","Graffiti Private Property","9110 GREENBACK LN, Sacramento, CA, 95662",38.678229,-121.215874
+"118",31424951,"2/11/2016 12:46:08 PM","","Open","Pavement","Pothole Sidewalk Complaints","8525 MENKE WAY, Sacramento, CA, 95662",38.696949,-121.242916
+"119",31424969,"2/11/2016 1:00:22 PM","","Open","Graffiti","Graffiti Private Property","5916 BRETT DR, Sacramento, CA, 95842",38.675205,-121.355233
+"120",31425103,"2/11/2016 2:22:10 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 108513","5908 RANGER WAY, Sacramento, CA, 95608",38.644524,-121.323943
+"121",31425115,"2/11/2016 2:31:05 PM","","Open","Pavement","Pavement","4251 NIBLICK WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"122",31425144,"2/11/2016 2:50:30 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","9348 PREMIER WAY, Sacramento, CA, 95826",38.558397,-121.34992
+"123",31425159,"2/11/2016 3:02:59 PM","","Open","Pavement","Pothole Sidewalk Complaints","1416 JERRILYN CT, Sacramento, CA, 95608",38.590252,-121.353828
+"124",31425175,"2/11/2016 3:14:57 PM","","Open","Pavement","Pothole Sidewalk Complaints","6637 MEDORA DR, Sacramento, CA, 95660",38.688097,-121.371194
+"125",31425206,"2/11/2016 3:42:08 PM","","Open","Pavement","Pothole - 108538","4876 VOGELSANG DR, Sacramento, CA, 95842",38.678185,-121.35326
+"126",31425265,"2/11/2016 4:18:09 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","6149 N HAVEN DR, Sacramento, CA, 95660",38.675695,-121.368434
+"127",31425369,"2/11/2016 6:22:10 PM","","Open","Traffic Sign Complaints","Street lighting - 108562","2500 FULTON AVE, Sacramento, CA, 95821",38.610647,-121.401433
+"128",31425373,"2/11/2016 6:38:34 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","4508 MARBLE WAY, Sacramento, CA, 95608",38.64425,-121.321847
+"129",31425393,"2/11/2016 8:37:03 PM","","Open","Pavement","Pothole Sidewalk Complaints","4600 STOLLWOOD DR, Sacramento, CA, 95608",38.647393,-121.300348
+"130",31425436,"2/12/2016 7:42:13 AM","","Open","Illegal Dumping","Illegal dumping - 108625","4701 MANZANITA AVE, Sacramento, CA, 95608",38.649086,-121.327677
+"131",31425450,"2/12/2016 8:09:56 AM","","Open","Traffic Sign Complaints","Street Light Complaints","9221 VANCOUVER DR, Sacramento, CA, 95826",38.564522,-121.356848
+"132",31425479,"2/12/2016 8:39:15 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","7254 FOXFIELD WAY, Sacramento, CA, 95660",38.698626,-121.37197
+"133",31425523,"2/12/2016 9:20:42 AM","","Open","Traffic Sign Complaints","Traffic Signal Complaints","5750 HAZEL AVE, Sacramento, CA, 95662",38.670145,-121.225671
+"134",31425584,"2/12/2016 10:04:51 AM","","Open","Graffiti","Graffiti Public Right of Way","5034 SUNRISE BLVD, Sacramento, CA, 95628",38.643437,-121.268207
+"135",31425856,"2/12/2016 1:59:44 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3747 LENORE WAY, Sacramento, CA, 95660",38.657484,-121.377413
+"136",31425872,"2/12/2016 2:12:07 PM","","Open","Illegal Dumping","Illegal dumping - 108687","2590 ELVERTA RD, Sacramento, CA, 95626",38.71428,-121.402014
+"137",31425921,"2/12/2016 2:46:22 PM","","Open","Traffic Sign Complaints","Street Light Complaints","3840 44TH AVE, Sacramento, CA, 95824",38.512993,-121.464146
+"138",31425975,"2/12/2016 3:21:47 PM","","Open","Graffiti","Graffiti Private Property","5365 DEWEY DR, Sacramento, CA, 95628",38.66296,-121.30855
+"139",31426125,"2/12/2016 7:53:44 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","6420 COLETTE WAY, Sacramento, CA, 95660",38.68351,-121.366446
+"140",31426144,"2/12/2016 10:19:51 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3927 42ND ST, Sacramento, CA, 95820",38.539139,-121.457456
+"141",31426204,"2/13/2016 10:02:28 AM","","Open","Graffiti","Graffiti - 108802","4100 SCRANTON CIR, Sacramento, CA, 95608",38.642523,-121.329432
+"142",31426205,"2/13/2016 10:02:29 AM","","Open","Graffiti","Graffiti - 108799","4258 HACKBERRY LN, Sacramento, CA, 95608",38.64201,-121.332022
+"143",31426206,"2/13/2016 10:02:30 AM","","Open","Graffiti","Graffiti - 108800","4183 SCRANTON CIR, Sacramento, CA, 95608",38.641917,-121.330556
+"144",31426207,"2/13/2016 10:02:30 AM","","Open","Graffiti","Graffiti - 108804","5828 LOCUST AVE, Sacramento, CA, 95608",38.642441,-121.329088
+"145",31426208,"2/13/2016 10:02:31 AM","","Open","Graffiti","Graffiti - 108805","5945 ADANA CIR, Sacramento, CA, 95608",38.64198,-121.327417
+"146",31426211,"2/13/2016 10:10:20 AM","","Open","Graffiti","Graffiti - 108807","4243 MANZANITA AVE, Sacramento, CA, 95608",38.640935,-121.328
+"147",31426212,"2/13/2016 10:12:07 AM","","Open","Graffiti","Graffiti - 108810","4141 MANZANITA AVE,Unit 120, Sacramento, CA, 95608",38.639538,-121.328033
+"148",31426213,"2/13/2016 10:12:07 AM","","Open","Graffiti","Graffiti - 108808","4221 MANZANITA AVE, Sacramento, CA, 95608",38.640714,-121.328005
+"149",31426214,"2/13/2016 10:12:07 AM","","Open","Graffiti","Graffiti - 108812","4141 MANZANITA AVE,Unit 130, Sacramento, CA, 95608",38.639538,-121.328033
+"150",31426215,"2/13/2016 10:12:08 AM","","Open","Abandoned Vehicles","Abandoned Vehicle - 108809","4344 GREENHOLME DR,Unit 19, Sacramento, CA, 95842",38.669891,-121.362273
+"151",31426216,"2/13/2016 10:12:10 AM","","Open","Graffiti","Graffiti - 108813","4141 MANZANITA AVE,Unit 140, Sacramento, CA, 95608",38.639538,-121.328033
+"152",31426217,"2/13/2016 10:12:10 AM","","Open","Graffiti","Graffiti - 108814","4141 MANZANITA AVE,Unit 125A, Sacramento, CA, 95608",38.639538,-121.328033
+"153",31426218,"2/13/2016 10:20:20 AM","","Open","Graffiti","Graffiti - 108816","4049 MANZANITA AVE, Sacramento, CA, 95608",38.638377,-121.328063
+"154",31426219,"2/13/2016 10:20:20 AM","","Open","Graffiti","Graffiti - 108815","4049 MANZANITA AVE, Sacramento, CA, 95608",38.638377,-121.328063
+"155",31426225,"2/13/2016 10:32:06 AM","","Open","Graffiti","Graffiti - 108817","5714 LOCUST AVE, Sacramento, CA, 95608",38.642474,-121.33146
+"156",31426226,"2/13/2016 10:32:09 AM","","Open","Graffiti","Graffiti - 108819","4049 MANZANITA AVE, Sacramento, CA, 95608",38.638377,-121.328063
+"157",31426233,"2/13/2016 10:42:10 AM","","Open","Graffiti","Graffiti - 108822","5724 CYPRESS AVE, Sacramento, CA, 95608",38.638904,-121.330471
+"158",31426234,"2/13/2016 10:42:10 AM","","Open","Graffiti","Graffiti - 108824","5724 CYPRESS AVE, Sacramento, CA, 95608",38.638904,-121.330471
+"159",31426235,"2/13/2016 10:42:10 AM","","Open","Graffiti","Graffiti - 108821","5801 CYPRESS AVE, Sacramento, CA, 95608",38.638898,-121.329942
+"160",31426237,"2/13/2016 10:42:13 AM","","Open","Graffiti","Graffiti - 108826","5709 CYPRESS AVE, Sacramento, CA, 95608",38.638997,-121.33194
+"161",31426238,"2/13/2016 10:42:13 AM","","Open","Graffiti","Graffiti - 108825","5710 CYPRESS AVE, Sacramento, CA, 95608",38.638996,-121.331915
+"162",31426241,"2/13/2016 10:52:09 AM","","Open","Graffiti","Graffiti - 108830","4258 HACKBERRY LN, Sacramento, CA, 95608",38.64201,-121.332022
+"163",31426242,"2/13/2016 10:52:09 AM","","Open","Graffiti","Graffiti - 108832","4258 HACKBERRY LN, Sacramento, CA, 95608",38.64201,-121.332022
+"164",31426243,"2/13/2016 10:52:10 AM","","Open","Graffiti","Graffiti - 108827","5636 VALL CT, Sacramento, CA, 95608",38.64105,-121.33362
+"165",31426244,"2/13/2016 10:52:12 AM","","Open","Graffiti","Graffiti - 108828","5645 VALL CT, Sacramento, CA, 95608",38.641197,-121.333482
+"166",31426247,"2/13/2016 11:02:09 AM","","Open","Graffiti","Graffiti - 108834","5644 WINDING WAY, Sacramento, CA, 95608",38.647938,-121.333526
+"167",31426248,"2/13/2016 11:02:10 AM","","Open","Graffiti","Graffiti - 108835","5736 WINDING WAY, Sacramento, CA, 95608",38.648065,-121.331637
+"168",31426249,"2/13/2016 11:02:12 AM","","Open","Graffiti","Graffiti - 108833","4736 HIXON CIR, Sacramento, CA, 95608",38.650278,-121.337349
+"169",31426250,"2/13/2016 11:10:20 AM","","Open","Graffiti","Graffiti - 108838","5746 WINDMILL WAY, Sacramento, CA, 95608",38.647901,-121.330471
+"170",31426251,"2/13/2016 11:10:20 AM","","Open","Graffiti","Graffiti - 108839","5746 WINDMILL WAY, Sacramento, CA, 95608",38.647901,-121.330471
+"171",31426253,"2/13/2016 11:12:04 AM","","Open","Graffiti","Graffiti - 108841","5801 WINDING WAY,Unit 1, Sacramento, CA, 95608",38.647937,-121.331016
+"172",31426254,"2/13/2016 11:12:05 AM","","Open","Graffiti","Graffiti - 108840","5801 WINDING WAY,Unit 1, Sacramento, CA, 95608",38.647937,-121.331016
+"173",31426255,"2/13/2016 11:12:05 AM","","Open","Graffiti","Graffiti - 108843","4625 MANZANITA AVE, Sacramento, CA, 95608",38.648227,-121.327779
+"174",31426259,"2/13/2016 11:22:07 AM","","Open","Graffiti","Graffiti - 108847","4448 HACKBERRY LN, Sacramento, CA, 95608",38.645786,-121.331992
+"175",31426287,"2/13/2016 1:32:11 PM","","Open","Graffiti","Graffiti - 108873","5001 BURNBRAE PL, Sacramento, CA, 95843",38.717886,-121.348217
+"176",31426292,"2/13/2016 1:40:19 PM","","Open","Graffiti","Graffiti - 108874","6960 STANFORD OAK DR, Sacramento, CA, 95842",38.69179,-121.328125
+"177",31426293,"2/13/2016 1:42:09 PM","","Open","Graffiti","Graffiti - 108877","6922 WAXWING WAY, Sacramento, CA, 95842",38.691396,-121.351626
+"178",31426294,"2/13/2016 1:42:12 PM","","Open","Graffiti","Graffiti - 108875","6344 VERNER AVE, Sacramento, CA, 95841",38.681954,-121.33377
+"179",31426303,"2/13/2016 2:40:00 PM","","Open","Traffic Sign Complaints","Traffic Sign Complaints","7849 STOCKTON BLVD, Sacramento, CA, 95828",38.460318,-121.411786
+"180",31426318,"2/13/2016 3:52:11 PM","","Open","Traffic Sign Complaints","Road traffic sign - 108889","1266 HOWE AVE, Sacramento, CA, 95825",38.588276,-121.415239
+"181",31426329,"2/13/2016 4:32:05 PM","","Open","Pavement","Pothole - 108895","4400 PENNSYLVANIA AVE, Sacramento, CA, 95628",38.643437,-121.268207
+"182",31426359,"2/13/2016 6:02:13 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 108904","6896 BRIGGS DR, Sacramento, CA, 95828",38.502809,-121.419245
+"183",31426409,"2/14/2016 7:19:55 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","8796 KENTSHIRE WAY, Sacramento, CA, 95828",38.458798,-121.375965
+"184",31426418,"2/14/2016 8:52:09 AM","","Open","Pavement","Pothole - 108945","454 CROCKER RD, Sacramento, CA, 95864",38.571638,-121.392838
+"185",31426425,"2/14/2016 9:22:10 AM","","Open","Pavement","Pothole - 108950","3381 SIERRA OAKS DR, Sacramento, CA, 95864",38.57068,-121.387874
+"186",31426450,"2/14/2016 11:21:28 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8137 WOOD MILL PL, Sacramento, CA, 95843",38.715945,-121.392271
+"187",31426454,"2/14/2016 11:30:25 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","3519 GRANT PARK DR, Sacramento, CA, 95608",38.627797,-121.326478
+"188",31426455,"2/14/2016 11:32:09 AM","","Open","Graffiti","Graffiti - 108973","4813 CLYDEBANK WAY, Sacramento, CA, 95843",38.714971,-121.347417
+"189",31426456,"2/14/2016 11:32:09 AM","","Open","Graffiti","Graffiti - 108971","8038 GOLDEN VISTA WAY, Sacramento, CA, 95843",38.715888,-121.344009
+"190",31426463,"2/14/2016 11:42:07 AM","","Open","Graffiti","Graffiti - 108976","4833 CLYDEBANK WAY, Sacramento, CA, 95843",38.71463,-121.34751
+"191",31426472,"2/14/2016 12:00:18 PM","","Open","Graffiti","Graffiti - 108983","8149 HEARTH PL, Sacramento, CA, 95843",38.71769,-121.345612
+"192",31426475,"2/14/2016 12:12:08 PM","","Open","Graffiti","Graffiti - 108990","5208 HEARTLAND DR, Sacramento, CA, 95843",38.71713,-121.343829
+"193",31426510,"2/14/2016 2:12:11 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 109019","5070 HILLSDALE BLVD, Sacramento, CA, 95842",38.659119,-121.36432
+"194",31426528,"2/14/2016 3:12:05 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 109036","4250 MADISON AVE, Sacramento, CA, 95660",38.660999,-121.36552
+"195",31426539,"2/14/2016 4:23:28 PM","","Open","Traffic Sign Complaints","Street Light Complaints","2171 GLANCY CT, Sacramento, CA, 95608",38.604648,-121.343116
+"196",31426552,"2/14/2016 5:12:07 PM","","Open","Graffiti","Graffiti - 109049","5041 CUMBRAE ISLE WAY, Sacramento, CA, 95843",38.715697,-121.347171
+"197",31426555,"2/14/2016 5:20:21 PM","","Open","Graffiti","Graffiti - 109054","4817 MORGAN OAK WAY, Sacramento, CA, 95843",38.71794,-121.352252
+"198",31426557,"2/14/2016 5:20:22 PM","","Open","Graffiti","Graffiti - 109051","4924 FAWNRIDGE CT, Sacramento, CA, 95843",38.718845,-121.350205
+"199",31426562,"2/14/2016 5:32:10 PM","","Open","Graffiti","Graffiti - 109056","8229 MULRANY WAY, Sacramento, CA, 95843",38.718618,-121.355716
+"200",31426592,"2/14/2016 9:10:22 PM","","Open","Pavement","Pothole - 109068","6900 WOODSIDE DR, Sacramento, CA, 95842",38.691683,-121.330323
+"201",31426593,"2/14/2016 9:12:07 PM","","Open","Pavement","Pothole - 109069","5743 LANCELOT DR, Sacramento, CA, 95842",38.690764,-121.331369
+"202",31426594,"2/14/2016 9:12:08 PM","","Open","Pavement","Pothole - 109070","5553 WOODFOREST DR, Sacramento, CA, 95842",38.690209,-121.334514
+"203",31426604,"2/15/2016 12:52:08 AM","","Open","Traffic light","Traffic light - 109074","5925 RAMPART DR,Unit 41, Sacramento, CA, 95608",38.647887,-121.325082
+"204",31426605,"2/15/2016 1:12:06 AM","","Open","Traffic Sign Complaints","Street lighting - 109075","6121 MARTIN LUTHER KING JR BLVD, Sacramento, CA, 95824",38.514967,-121.46454
+"205",31426606,"2/15/2016 1:12:06 AM","","Open","Traffic Sign Complaints","Street lighting - 109076","6200 39TH ST, Sacramento, CA, 95824",38.513988,-121.462752
+"206",31426615,"2/15/2016 4:52:14 AM","","Open","Traffic Sign Complaints","Street lighting - 109081","8564 VINTAGE PARK DR, Sacramento, CA, 95828",38.460324,-121.381077
+"207",31426626,"2/15/2016 7:43:25 AM","","Open","Pavement","Pothole Sidewalk Complaints","8101 HAYSTACK DR, Sacramento, CA, 95828",38.477561,-121.408752
+"208",31426682,"2/15/2016 9:22:10 AM","","Open","Pavement","Pothole - 109110","3300 SIERRA OAKS DR, Sacramento, CA, 95864",38.572216,-121.389411
+"209",31426683,"2/15/2016 9:22:11 AM","","Open","Pavement","Pothole - 109112","3300 SIERRA OAKS DR, Sacramento, CA, 95864",38.572216,-121.389411
+"210",31426684,"2/15/2016 9:22:11 AM","","Open","Pavement","Pothole - 109113","8052 CAYMUS DR, Sacramento, CA, 95829",38.46503,-121.364498
+"211",31426724,"2/15/2016 9:58:27 AM","","Open","Pavement","Pothole Sidewalk Complaints","5957 SARAH CT, Sacramento, CA, 95608",38.604454,-121.327305
+"212",31426732,"2/15/2016 10:12:09 AM","","Open","Illegal Dumping","Illegal dumping - 109118","3859 WOODCREST RD, Sacramento, CA, 95821",38.62477,-121.37463
+"213",31426794,"2/15/2016 11:30:12 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","5158 RHODE ISLAND DR, Sacramento, CA, 95841",38.659784,-121.333541
+"214",31427039,"2/15/2016 5:02:29 PM","","Open","Graffiti","Graffiti - 109198","5781 OLD ANTELOPE NORTH RD, Sacramento, CA, 95843",38.708088,-121.330694
+"215",31427040,"2/15/2016 5:02:30 PM","","Open","Graffiti","Graffiti - 109197","5755 ANTELOPE NORTH RD, Sacramento, CA, 95843",38.70733,-121.331432
+"216",31427055,"2/15/2016 5:22:50 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8208 PINTO CT, Sacramento, CA, 95843",38.71826,-121.38548
+"217",31427081,"2/15/2016 6:32:11 PM","","Open","Abandoned Vehicles","Abandoned Vehicle - 109214","5829 RIDGEPOINT DR, Sacramento, CA, 95843",38.720065,-121.32926
+"218",31427083,"2/15/2016 6:32:12 PM","","Open","Graffiti","Graffiti - 109216","3956 BRIDGE ST, Sacramento, CA, 95628",38.638357,-121.266955
+"219",31427173,"2/16/2016 8:07:49 AM","","Open","Pavement","Pothole Sidewalk Complaints","4551 EDISON AVE, Sacramento, CA, 95821",38.636659,-121.358206
+"220",31427195,"2/16/2016 8:22:12 AM","","Open","Graffiti","Graffiti - 109294","3956 BRIDGE ST, Sacramento, CA, 95628",38.638357,-121.266955
+"221",31427196,"2/16/2016 8:22:12 AM","","Open","Graffiti","Graffiti - 109295","3956 BRIDGE ST, Sacramento, CA, 95628",38.638357,-121.266955
+"222",31427389,"2/16/2016 10:02:13 AM","","Open","Traffic Sign Complaints","Road traffic sign - 109307","7112 STOCKER WAY, Sacramento, CA, 95828",38.500482,-121.420665
+"223",31427415,"2/16/2016 10:16:17 AM","","Open","Sweeper Request","Sweeper Request","1295 FULTON AVE, Sacramento, CA, 95825",38.588684,-121.401542
+"224",31427505,"2/16/2016 10:53:15 AM","","Open","Traffic Sign Complaints","Street Light Complaints","440 ARLINGDALE CIR, Sacramento, CA, 95673",38.703058,-121.454886
+"225",31427602,"2/16/2016 11:41:05 AM","","Open","Traffic Sign Complaints","Street Light Complaints","5760 SAMPSON BLVD, Sacramento, CA, 95824",38.521631,-121.449101
+"226",31427668,"2/16/2016 12:23:16 PM","","Open","Traffic Sign Complaints","Street Light Complaints","545 ARLINGDALE CIR, Sacramento, CA, 95673",38.703569,-121.453726
+"227",31427673,"2/16/2016 12:26:55 PM","","Open","Traffic Sign Complaints","Street Light Complaints","5987 KYLENCH CT, Sacramento, CA, 95621",38.708951,-121.324693
+"228",31427746,"2/16/2016 1:09:43 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","8052 GOLDENLEAF WAY, Sacramento, CA, 95829",38.464476,-121.334094
+"229",31427919,"2/16/2016 3:10:44 PM","","Open","Traffic Sign Complaints","Traffic Sign Complaints","11595 PROSPECT HILL DR, Sacramento, CA, 95670",38.583331,-121.275564
+"230",31427940,"2/16/2016 3:24:56 PM","","Open","Pavement","Ditches/Culverts","7607 DRY CREEK RD, Sacramento, CA, 95626",38.704982,-121.438393
+"231",31427970,"2/16/2016 3:42:03 PM","","Open","Traffic Sign Complaints","Traffic Sign Complaints","3724 WILLIAM WAY, Sacramento, CA, 95821",38.630808,-121.377902
+"232",31428151,"2/16/2016 6:43:22 PM","","Open","Traffic Sign Complaints","Street Light Complaints","6125 MARTIN LUTHER KING JR BLVD, Sacramento, CA, 95824",38.514885,-121.464614
+"233",31428170,"2/16/2016 8:51:53 PM","","Open","Graffiti","Graffiti Private Property","7420 SUNSET AVE, Sacramento, CA, 95628",38.652608,-121.291436
+"234",31428190,"2/17/2016 5:32:16 AM","","Open","Traffic Sign Complaints","Street lighting - 109472","5700 CYPRESS AVE, Sacramento, CA, 95608",38.638925,-121.332142
+"235",31428223,"2/17/2016 7:44:42 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8640 OAK VILLAGE CT, Sacramento, CA, 95843",38.726623,-121.384674
+"236",31428279,"2/17/2016 8:39:34 AM","","Open","Traffic Sign Complaints","Street Light Complaints","9071 SHADY HOLLOW WAY, Sacramento, CA, 95628",38.643454,-121.26344
+"237",31428288,"2/17/2016 8:48:14 AM","","Open","Sweeper Request","Sweeper Request","8080 MORGAN HILL WAY, Sacramento, CA, 95828",38.463259,-121.386453
+"238",31428326,"2/17/2016 9:14:11 AM","","Open","Abandoned Vehicles","Abandoned Vehicle - 109520","8521 OAK AVE, Sacramento, CA, 95662",38.700573,-121.243353
+"239",31428437,"2/17/2016 10:27:54 AM","","Open","Illegal Dumping","Aggregate Dumping","960 CASTEC DR, Sacramento, CA, 95864",38.58189,-121.378629
+"240",31428457,"2/17/2016 10:46:33 AM","","Open","Pavement","Pothole Sidewalk Complaints","9090 CASELMAN RD, Sacramento, CA, 95829",38.472662,-121.363865
+"241",31428459,"2/17/2016 10:47:37 AM","","Open","Pavement","Pothole Sidewalk Complaints","9086 GERBER RD, Sacramento, CA, 95829",38.481575,-121.363969
+"242",31428520,"2/17/2016 11:31:09 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","4352 GREENHOLME DR,Unit 11, Sacramento, CA, 95842",38.669911,-121.362161
+"243",31428534,"2/17/2016 11:42:11 AM","","Open","Pavement","Pothole - 109546","2901 TIOGA WAY, Sacramento, CA, 95821",38.620432,-121.395761
+"244",31428577,"2/17/2016 12:12:56 PM","","Open","Graffiti","Graffiti Public Right of Way","6143 32ND ST, Sacramento, CA, 95660",38.67838,-121.392235
+"245",31428634,"2/17/2016 12:48:59 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8327 HERNDON CT, Sacramento, CA, 95828",38.4612,-121.399004
+"246",31428651,"2/17/2016 1:02:27 PM","","Open","Pavement","Pothole - 109560","3700 MORSE AVE,Unit 15, Sacramento, CA, 95821",38.613254,-121.373006
+"247",31428652,"2/17/2016 1:02:28 PM","","Open","Pavement","Pothole - 109566","3713 MORSE AVE, Sacramento, CA, 95821",38.631855,-121.392248
+"248",31428656,"2/17/2016 1:03:45 PM","","Open","Traffic Sign Complaints","Street Light Complaints","4620 MARTSMITH WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"249",31428671,"2/17/2016 1:15:02 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","6704 MEDORA DR, Sacramento, CA, 95660",38.689712,-121.370604
+"250",31428694,"2/17/2016 1:31:14 PM","","Open","Traffic Sign Complaints","Street Light Complaints","7826 PACIFIC DUNES CT, Sacramento, CA, 95829",38.473133,-121.319677
+"251",31428697,"2/17/2016 1:32:06 PM","","Open","Pavement","Pothole - 109574","2913 KERRIA WAY, Sacramento, CA, 95821",38.627282,-121.395071
+"252",31428774,"2/17/2016 2:26:58 PM","","Open","Traffic Sign Complaints","Street Light Complaints","6229 OPUS CT, Sacramento, CA, 95621",38.715871,-121.316995
+"253",31428782,"2/17/2016 2:32:32 PM","","Open","Graffiti","Graffiti Public Right of Way","8930 LA RIVIERA DR, Sacramento, CA, 95826",38.563479,-121.371465
+"254",31428856,"2/17/2016 3:24:44 PM","","Open","Tree","Tree Complaints","3600 SEAN DR, Sacramento, CA, 95821",38.627213,-121.381729
+"255",31428860,"2/17/2016 3:26:57 PM","","Open","Traffic Sign Complaints","Street Light Complaints","9158 COLONSAY WAY, Sacramento, CA, 95829",38.461014,-121.359645
+"256",31428865,"2/17/2016 3:30:57 PM","","Open","Pavement","Ditches/Culverts","146 Q ST, Sacramento, CA, 95673",38.698384,-121.462461
+"257",31428901,"2/17/2016 3:55:59 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8138 OTIUM CT, Sacramento, CA, 95843",38.717365,-121.354727
+"258",31428949,"2/17/2016 4:25:15 PM","","Open","Traffic Sign Complaints","Street Light Complaints","9111 ANISTASIA CT, Sacramento, CA, 95829",38.457714,-121.361948
+"259",31429002,"2/17/2016 5:19:55 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3736 LENORE WAY, Sacramento, CA, 95660",38.657188,-121.377263
+"260",31429021,"2/17/2016 5:52:08 PM","","Open","Illegal Dumping","Illegal dumping - 109630","7141 FRANKLIN BLVD, Sacramento, CA, 95823",38.496931,-121.459685
+"261",31429074,"2/18/2016 6:12:12 AM","","Open","Illegal Dumping","Illegal dumping - 109658","7417 SAN NITA WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"262",31429086,"2/18/2016 7:39:18 AM","","Open","Traffic Sign Complaints","Street Light Complaints","11357 SABALO CT, Sacramento, CA, 95670",38.617282,-121.25875
+"263",31429155,"2/18/2016 8:59:52 AM","","Open","Traffic Sign Complaints","Street Light Complaints","3612 TIMMCO CT, Sacramento, CA, 95608",38.630331,-121.335186
+"264",31429177,"2/18/2016 9:22:43 AM","","Open","Tree","Tree Complaints","7324 SUNSET AVE, Sacramento, CA, 95628",38.6526,-121.293012
+"265",31429195,"2/18/2016 9:33:23 AM","","Open","Traffic Sign Complaints","Street Light Complaints","4120 DAYSTAR CT, Sacramento, CA, 95824",38.520369,-121.458594
+"266",31429240,"2/18/2016 10:03:32 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8021 GLENBAR WAY, Sacramento, CA, 95628",38.643452,-121.266215
+"267",31429260,"2/18/2016 10:16:17 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","2905 HOLT WAY, Sacramento, CA, 95864",38.592697,-121.39664
+"268",31429299,"2/18/2016 10:42:26 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","3860 35TH AVE, Sacramento, CA, 95824",38.52128,-121.463998
+"269",31429321,"2/18/2016 11:04:00 AM","","Open","Traffic Sign Complaints","Street Light Complaints","7652 PHEASANT DOWN WAY, Sacramento, CA, 95828",38.479475,-121.379261
+"270",31429339,"2/18/2016 11:17:56 AM","","Open","Traffic Sign Complaints","Street Light Complaints","4700 GENERO CT, Sacramento, CA, 95843",38.721089,-121.355055
+"271",31429357,"2/18/2016 11:35:44 AM","","Open","Traffic Sign Complaints","Street Light Complaints","5109 VISTA DEL ORO WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"272",31429358,"2/18/2016 11:37:44 AM","","Open","Pavement","Pavement","5124 GIBBONS DR,Unit 1, Sacramento, CA, 95608",38.635399,-121.345655
+"273",31429359,"2/18/2016 11:37:55 AM","","Open","Pavement","Pothole Sidewalk Complaints","5124 GIBBONS DR, Sacramento, CA, 95608",38.635399,-121.345655
+"274",31429361,"2/18/2016 11:41:17 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","1111 CLINTON RD, Sacramento, CA, 95825",38.585202,-121.406919
+"275",31429388,"2/18/2016 12:05:56 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","2931 WRIGHT ST, Sacramento, CA, 95821",38.618591,-121.406129
+"276",31429469,"2/18/2016 1:07:13 PM","","Open","Traffic Sign Complaints","Street Light Complaints","6541 YOUNG OAK CT, Sacramento, CA, 95662",38.700517,-121.244327
+"277",31429519,"2/18/2016 1:46:16 PM","","Open","Tree","Tree Complaints","9104 ELM AVE, Sacramento, CA, 95662",38.69281,-121.215748
+"278",31429521,"2/18/2016 1:49:21 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8600 TIOGAWOODS DR, Sacramento, CA, 95828",38.474799,-121.386256
+"279",31429560,"2/18/2016 2:16:21 PM","","Open","Traffic Sign Complaints","Street Light Complaints","4233 LEAFMONT WAY, Sacramento, CA, 95826",38.543421,-121.345645
+"280",31429568,"2/18/2016 2:22:09 PM","","Open","Pavement","Pothole Sidewalk Complaints","6253 JACK LONDON CIR, Sacramento, CA, 95842",38.683712,-121.352786
+"281",31429611,"2/18/2016 2:57:28 PM","","Open","Traffic Sign Complaints","Street Light Complaints","5139 KARM WAY, Sacramento, CA, 95842",38.690734,-121.344336
+"282",31429729,"2/18/2016 4:12:35 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3616 ELKHORN BLVD, Sacramento, CA, 95660",38.690239,-121.382265
+"283",31429822,"2/18/2016 9:50:34 PM","","Open","Traffic Sign Complaints","Street Light Complaints","14129 PINE ST, Sacramento, CA, 95690",38.242632,-121.510386
+"284",31429858,"2/19/2016 7:31:46 AM","","Open","Pavement","Pothole Sidewalk Complaints","3817 FONT ST, Sacramento, CA, 95821",38.616554,-121.375928
+"285",31429970,"2/19/2016 9:23:23 AM","","Open","Traffic Sign Complaints","Traffic Sign Complaints","2949 NORRIS AVE, Sacramento, CA, 95821",38.618998,-121.369137
+"286",31429973,"2/19/2016 9:28:15 AM","","Open","Pavement","Pothole Sidewalk Complaints","4220 41ST AVE, Sacramento, CA, 95824",38.515842,-121.458186
+"287",31430036,"2/19/2016 10:18:42 AM","","Open","Tree","Tree Complaints","4642 BERRENDO DR, Sacramento, CA, 95864",38.591016,-121.356628
+"288",31430237,"2/19/2016 12:55:33 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","5520 47TH AVE, Sacramento, CA, 95824",38.510397,-121.440633
+"289",31430260,"2/19/2016 1:22:06 PM","","Open","Tree","Tree - 109914","2613 CATALINA DR, Sacramento, CA, 95821",38.612521,-121.374399
+"290",31430376,"2/19/2016 2:47:19 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8240 KILMER CIR, Sacramento, CA, 95828",38.474761,-121.402559
+"291",31430425,"2/19/2016 3:29:28 PM","","Open","Traffic Sign Complaints","Street Light Complaints","6201 39TH ST, Sacramento, CA, 95824",38.513988,-121.462752
+"292",31430508,"2/19/2016 4:34:12 PM","","Open","Pavement","Pavement","2816 CARRISA WAY, Sacramento, CA, 95821",38.615335,-121.372691
+"293",31430525,"2/19/2016 4:53:02 PM","","Open","Traffic Sign Complaints","Street Light Complaints","1018 CLINTON RD, Sacramento, CA, 95825",38.584708,-121.409927
+"294",31430580,"2/20/2016 1:24:54 AM","","Open","Traffic Sign Complaints","Street Light Complaints","6033 N HAVEN DR, Sacramento, CA, 95660",38.675757,-121.37329
+"295",31430592,"2/20/2016 5:10:39 AM","","Open","Traffic Sign Complaints","Street Light Complaints","5957 GEORGIA DR, Sacramento, CA, 95660",38.675153,-121.376349
+"296",31430608,"2/20/2016 10:12:14 AM","","Open","Pavement","Pothole - 110046","4609 JAN DR, Sacramento, CA, 95608",38.646917,-121.318136
+"297",31430620,"2/20/2016 11:48:02 AM","","Open","Pavement","Pavement","7930 EL RENO AVE, Sacramento, CA, 95626",38.712898,-121.454178
+"298",31430626,"2/20/2016 12:52:09 PM","","Open","Graffiti","Graffiti - 110070","5136 VISTA SIERRA DR, Sacramento, CA, 95843",38.521609,-121.46602
+"299",31430664,"2/20/2016 3:31:00 PM","","Open","Pavement","Pothole Sidewalk Complaints","4180 BIRDWELL WAY, Sacramento, CA, 95660",38.698251,-121.366464
+"300",31430729,"2/21/2016 5:52:10 AM","","Open","Graffiti","Graffiti - 110153","4801 TOMMAR DR, Sacramento, CA, 95628",38.652877,-121.261361
+"301",31430730,"2/21/2016 5:52:10 AM","","Open","Graffiti","Graffiti - 110154","4738 KATHYWOOD CT, Sacramento, CA, 95628",38.643437,-121.268207
+"302",31430740,"2/21/2016 9:14:32 AM","","Open","Traffic Sign Complaints","Street Light Complaints","9153 NEWHALL DR,Unit 102, Sacramento, CA, 95826",38.542352,-121.359365
+"303",31430743,"2/21/2016 9:44:27 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8325 ALMADINE DR, Sacramento, CA, 95829",38.4562,-121.324025
+"304",31430759,"2/21/2016 11:27:12 AM","","Open","Tree","Tree Complaints","9154 NEWHALL DR, Sacramento, CA, 95826",38.542352,-121.359337
+"305",31430773,"2/21/2016 12:16:16 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","6212 CLARA WAY, Sacramento, CA, 95660",38.679172,-121.377456
+"306",31430797,"2/21/2016 2:07:02 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","7650 ZEPHYR HILLS WAY, Sacramento, CA, 95843",38.704529,-121.368567
+"307",31430815,"2/21/2016 3:30:50 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3860 35TH AVE, Sacramento, CA, 95824",38.52128,-121.463998
+"308",31430847,"2/21/2016 4:52:12 PM","","Open","Pavement","Pothole - 110305","2851 LAUREL DR, Sacramento, CA, 95864",38.576341,-121.395906
+"309",31430869,"2/21/2016 6:32:50 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","3924 SCOTTY WAY, Sacramento, CA, 95821",38.636539,-121.355699
+"310",31430899,"2/22/2016 4:33:09 AM","","Open","Traffic Sign Complaints","Traffic Signal Complaints","8625 CALVINE RD, Sacramento, CA, 95828",38.452651,-121.384468
+"311",31430938,"2/22/2016 8:06:08 AM","","Open","Traffic Sign Complaints","Street Light Complaints","6931 OLIVE GROVE DR, Sacramento, CA, 95662",38.691375,-121.212811
+"312",31430940,"2/22/2016 8:08:29 AM","","Open","Traffic Sign Complaints","Street Light Complaints","2511 RIO BRAVO CIR, Sacramento, CA, 95826",38.569742,-121.354188
+"313",31430965,"2/22/2016 8:31:57 AM","","Open","Traffic Sign Complaints","Street Light Complaints","9552 GARDELLA WAY, Sacramento, CA, 95829",38.463474,-121.368034
+"314",31430968,"2/22/2016 8:32:10 AM","","Open","Pavement","Pothole - 110398","2816 NORCADE CIR, Sacramento, CA, 95826",38.5582,-121.365761
+"315",31431012,"2/22/2016 8:59:02 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","5605 NONA WAY, Sacramento, CA, 95824",38.524805,-121.454291
+"316",31431018,"2/22/2016 9:05:30 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","6201 WELTY WAY, Sacramento, CA, 95824",38.51329,-121.453644
+"317",31431024,"2/22/2016 9:11:12 AM","","Open","Pavement","Ditches/Culverts","5706 16TH ST, Sacramento, CA, 95673",38.671042,-121.429065
+"318",31431056,"2/22/2016 9:26:33 AM","","Open","Pavement","Ditches/Culverts","9030 RIO LINDA BLVD, Sacramento, CA, 95626",38.732677,-121.480021
+"319",31431075,"2/22/2016 9:35:26 AM","","Open","Pavement","Pothole Sidewalk Complaints","7520 COTTONTREE WAY, Sacramento, CA, 95828",38.484807,-121.410251
+"320",31431084,"2/22/2016 9:39:44 AM","","Open","Pavement","Pothole Sidewalk Complaints","2505 MICHELLE DR, Sacramento, CA, 95821",38.623853,-121.403591
+"321",31431094,"2/22/2016 9:45:37 AM","","Open","Traffic Sign Complaints","Street Light Complaints","4028 DIAMOND HILL CT, Sacramento, CA, 95843",38.724009,-121.369869
+"322",31431115,"2/22/2016 9:59:30 AM","","Open","Traffic Sign Complaints","Street Light Complaints","6045 GRANT AVE, Sacramento, CA, 95608",38.629652,-121.324473
+"323",31431120,"2/22/2016 10:03:38 AM","","Open","Traffic Sign Complaints","Street Light Complaints","3815 MYRNA WAY, Sacramento, CA, 95821",38.634219,-121.365541
+"324",31431128,"2/22/2016 10:07:55 AM","","Open","Pavement","Pothole Sidewalk Complaints","12572 CHEROKEE LN, Sacramento, CA, 95632",38.332957,-121.267513
+"325",31431192,"2/22/2016 10:41:16 AM","","Open","Pavement","Pothole Sidewalk Complaints","3948 GREY LIVERY WAY, Sacramento, CA, 95843",38.707442,-121.379706
+"326",31431246,"2/22/2016 11:06:30 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","9120 LA SERENA DR, Sacramento, CA, 95628",38.643454,-121.26344
+"327",31431254,"2/22/2016 11:09:22 AM","","Open","Tree","Tree Complaints","6305 OUTLOOK DR, Sacramento, CA, 95621",38.715547,-121.317888
+"328",31431344,"2/22/2016 11:52:08 AM","","Open","Pavement","Pavement","3125 TIMBERLANE PL, Sacramento, CA, 95843",38.712382,-121.39091
+"329",31431358,"2/22/2016 12:07:58 PM","","Open","Pavement","Pothole Sidewalk Complaints","7980 CAVALLI WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"330",31431372,"2/22/2016 12:17:11 PM","","Open","Traffic Sign Complaints","Street Light Complaints","910 STRIKER AVE, Sacramento, CA, 95834",38.650986,-121.482361
+"331",31431481,"2/22/2016 1:30:32 PM","","Open","Traffic Sign Complaints","Street Light Complaints","6221 39TH ST, Sacramento, CA, 95824",38.513334,-121.462677
+"332",31431549,"2/22/2016 2:17:46 PM","","Open","Traffic Sign Complaints","Traffic Signal Complaints","8364 ELK GROVE FLORIN RD, Sacramento, CA, 95829",38.453765,-121.371834
+"333",31431560,"2/22/2016 2:29:31 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","2931 WRIGHT ST, Sacramento, CA, 95821",38.618591,-121.406129
+"334",31431677,"2/22/2016 3:53:46 PM","","Open","Graffiti","Graffiti Private Property","2160 MARCONI AVE, Sacramento, CA, 95821",38.618494,-121.416544
+"335",31431683,"2/22/2016 3:56:12 PM","","Open","Pavement","Pothole Sidewalk Complaints","5732 CANARY DR, Sacramento, CA, 95660",38.671593,-121.380199
+"336",31431706,"2/22/2016 4:11:20 PM","","Open","Traffic Sign Complaints","Street Light Complaints","6205 RUTLAND DR, Sacramento, CA, 95608",38.660505,-121.318009
+"337",31431736,"2/22/2016 4:34:19 PM","","Open","Pavement","Pavement","6860 CUNNINGHAM WAY, Sacramento, CA, 95828",38.503204,-121.426166
+"338",31431777,"2/22/2016 5:09:30 PM","","Open","Graffiti","Graffiti Private Property","5365 DEWEY DR, Sacramento, CA, 95628",38.66296,-121.30855
+"339",31431824,"2/22/2016 6:38:51 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","6025 GAY WAY, Sacramento, CA, 95660",38.676312,-121.369639
+"340",31431880,"2/23/2016 4:29:12 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","8357 SUMMER SKY DR, Sacramento, CA, 95828",38.467518,-121.396785
+"341",31431895,"2/23/2016 7:02:16 AM","","Open","Pavement","Pothole - 110508","6698 SILVERTHORNE CIR, Sacramento, CA, 95842",38.684587,-121.344915
+"342",31432043,"2/23/2016 9:41:09 AM","","Open","Traffic Sign Complaints","Street Light Complaints","3820 BLACKFOOT WAY, Sacramento, CA, 95843",38.708686,-121.374968
+"343",31432059,"2/23/2016 9:55:39 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","4506 MERGANSER CT, Sacramento, CA, 95842",38.693153,-121.359322
+"344",31432171,"2/23/2016 11:12:13 AM","","Open","Graffiti","Graffiti - 110560","2650 WATT AVE, Sacramento, CA, 95821",38.613346,-121.383067
+"345",31432251,"2/23/2016 12:12:43 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","5064 SHELL ST, Sacramento, CA, 95660",38.659515,-121.376403
+"346",31432375,"2/23/2016 1:43:40 PM","","Open","Pavement","Pothole Sidewalk Complaints","6440 BEECH AVE, Sacramento, CA, 95662",38.68307,-121.230166
+"347",31432417,"2/23/2016 2:17:55 PM","","Open","Traffic Sign Complaints","Street Light Complaints","7649 HEPBURN WAY, Sacramento, CA, 95843",38.705272,-121.361624
+"348",31432504,"2/23/2016 3:24:45 PM","","Open","Pavement","Pothole Sidewalk Complaints","8058 LOMAND CT, Sacramento, CA, 95828",38.465328,-121.377122
+"349",31432534,"2/23/2016 3:46:04 PM","","Open","Traffic Sign Complaints","Street Light Complaints","4528 WRENFORD WAY, Sacramento, CA, 95842",38.702314,-121.35784
+"350",31432537,"2/23/2016 3:50:26 PM","","Open","Tree","Tree Complaints","7417 SAN NITA WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"351",31432572,"2/23/2016 4:15:20 PM","","Open","Traffic Sign Complaints","Street Light Complaints","5980 KYLENCH CT, Sacramento, CA, 95621",38.708876,-121.324836
+"352",31432582,"2/23/2016 4:25:43 PM","","Open","Traffic Sign Complaints","Street Light Complaints","4906 VENUTO WAY, Sacramento, CA, 95841",38.664717,-121.350408
+"353",31432635,"2/23/2016 5:33:04 PM","","Open","Pavement","Pavement","4606 SHAFTESBURY CT, Sacramento, CA, 95608",38.648114,-121.337292
+"354",31432644,"2/23/2016 5:52:34 PM","","Open","Pavement","Pothole - 110641","2625 WILLOW WAY, Sacramento, CA, 95608",38.612078,-121.320097
+"355",31432651,"2/23/2016 6:10:27 PM","","Open","Traffic Sign Complaints","Street Light Complaints","3531 BLUFF CT, Sacramento, CA, 95608",38.627939,-121.302436
+"356",31432684,"2/24/2016 6:22:14 AM","","Open","Illegal Dumping","Illegal dumping - 110696","4450 MANZANITA AVE, Sacramento, CA, 95608",38.646307,-121.3277
+"357",31432733,"2/24/2016 8:12:15 AM","","Open","Pavement","Pothole - 110713","4090 CONVAIR LINER RD, Sacramento, CA, 95655",38.724776,-120.809765
+"358",31432765,"2/24/2016 8:32:39 AM","","Open","Pavement","Pothole Sidewalk Complaints","9498 DALTON WAY, Sacramento, CA, 95662",38.6712,-121.197107
+"359",31432848,"2/24/2016 9:21:31 AM","","Open","Traffic Sign Complaints","Traffic Signal Complaints","7350 MADISON AVE, Sacramento, CA, 95628",38.643437,-121.268207
+"360",31432874,"2/24/2016 9:37:44 AM","","Open","Traffic Sign Complaints","Street Light Complaints","8083 CRANWELL CT, Sacramento, CA, 95829",38.463993,-121.348403
+"361",31432875,"2/24/2016 9:37:59 AM","","Open","Pavement","Pothole Sidewalk Complaints","4420 FLORIN RD, Sacramento, CA, 95823",38.495968,-121.45526
+"362",31432898,"2/24/2016 9:52:17 AM","","Open","Traffic Sign Complaints","Street Light Complaints","9032 NEWHALL DR, Sacramento, CA, 95826",38.542988,-121.363196
+"363",31432925,"2/24/2016 10:10:46 AM","","Open","Traffic Sign Complaints","Street Light Complaints","7845 DOMINION WAY, Sacramento, CA, 95626",38.711214,-121.41276
+"364",31432943,"2/24/2016 10:22:08 AM","","Open","Traffic Sign Complaints","Street lighting - 110739","8141 RAMWOOD WAY, Sacramento, CA, 95662",38.690834,-121.260476
+"365",31432944,"2/24/2016 10:22:08 AM","","Open","Traffic Sign Complaints","Street lighting - 110741","8141 RAMWOOD WAY, Sacramento, CA, 95662",38.690834,-121.260476
+"366",31433011,"2/24/2016 11:22:07 AM","","Open","Pavement","Pothole Sidewalk Complaints","4820 FOSTER WAY, Sacramento, CA, 95608",38.630686,-121.352414
+"367",31433065,"2/24/2016 11:52:49 AM","","Open","Pavement","Pavement","8509 LONON CT, Sacramento, CA, 95662",38.68493,-121.245765
+"368",31433081,"2/24/2016 12:05:51 PM","","Open","Traffic Sign Complaints","Traffic Signal Complaints","3500 AUBURN BLVD, Sacramento, CA, 95821",38.637155,-121.382941
+"369",31433106,"2/24/2016 12:23:53 PM","","Open","Traffic Sign Complaints","Street Light Complaints","11353 SABALO CT, Sacramento, CA, 95670",38.617265,-121.258787
+"370",31433110,"2/24/2016 12:27:43 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","4210 CORTRIGHT WAY, Sacramento, CA, 95660",38.695299,-121.367746
+"371",31433119,"2/24/2016 12:32:08 PM","","Open","Graffiti","Graffiti - 110758","2307 WYDA WAY, Sacramento, CA, 95825",38.599976,-121.410269
+"372",31433126,"2/24/2016 12:36:41 PM","","Open","Traffic Sign Complaints","Street Light Complaints","10166 MCCARRON WAY, Sacramento, CA, 95829",38.471119,-121.312493
+"373",31433166,"2/24/2016 1:07:19 PM","","Open","Pavement","Ditches/Culverts","8741 NIPAWIN WAY, Sacramento, CA, 95662",38.705881,-121.233654
+"374",31433202,"2/24/2016 1:34:30 PM","","Open","Pavement","Pothole Sidewalk Complaints","3437 S PORT DR, Sacramento, CA, 95826",38.550431,-121.361618
+"375",31433215,"2/24/2016 1:49:03 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","5412 ROCKWELL RD, Sacramento, CA, 95660",38.664793,-121.381278
+"376",31433216,"2/24/2016 1:50:18 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","5901 CHAPIN WAY, Sacramento, CA, 95824",38.519647,-121.451101
+"377",31433333,"2/24/2016 3:26:09 PM","","Open","Traffic Sign Complaints","Street Light Complaints","4955 SADDLEROCK WAY, Sacramento, CA, 95841",38.656583,-121.348608
+"378",31433351,"2/24/2016 3:38:24 PM","","Open","Traffic Sign Complaints","Traffic Signal Complaints","3050 MANLOVE RD, Sacramento, CA, 95826",38.553944,-121.372171
+"379",31433428,"2/24/2016 4:47:48 PM","","Open","Tree","Tree Complaints","2438 WALNUT OAKS LN, Sacramento, CA, 95608",38.623273,-121.345998
+"380",31433481,"2/24/2016 7:08:59 PM","","Open","Traffic Sign Complaints","Street Light Complaints","8829 BOLD RULER WAY, Sacramento, CA, 95628",38.643454,-121.26344
+"381",31433482,"2/24/2016 7:12:12 PM","","Open","Traffic light","Traffic light - 110812","4201 MACEY DR, Sacramento, CA, 95841",38.641981,-121.360418
+"382",31433494,"2/25/2016 1:32:12 AM","","Open","Traffic Sign Complaints","Street lighting - 110825","6155 39TH ST,Unit 1, Sacramento, CA, 95824",38.514525,-121.462679
+"383",31433577,"2/25/2016 8:38:06 AM","","Open","Traffic light","Traffic light - 110879","4242 ALBERTVILLE WAY, Sacramento, CA, 95843",38.721882,-121.365607
+"384",31433585,"2/25/2016 8:41:26 AM","","Open","Pavement","Pavement","3928 HENDERSON WAY, Sacramento, CA, 95608",38.636161,-121.334906
+"385",31433623,"2/25/2016 9:13:43 AM","","Open","Sweeper Request","Sweeper Request","5412 47TH AVE,Unit 16, Sacramento, CA, 95824",38.510392,-121.442979
+"386",31433626,"2/25/2016 9:16:00 AM","","Open","Pavement","Pothole Sidewalk Complaints","4200 RAMSEY DR, Sacramento, CA, 95660",38.696949,-121.367556
+"387",31433647,"2/25/2016 9:34:28 AM","","Open","Pavement","Pothole Sidewalk Complaints","4308 COLLEGE VIEW WAY, Sacramento, CA, 95608",38.643032,-121.344125
+"388",31433687,"2/25/2016 9:57:42 AM","","Open","Pavement","Pothole Sidewalk Complaints","1217 GREENHILLS RD, Sacramento, CA, 95864",38.587592,-121.384084
+"389",31433696,"2/25/2016 10:04:31 AM","","Open","Traffic Sign Complaints","Street Light Complaints","7448 ESTEEM DR, Sacramento, CA, 95842",38.701631,-121.353202
+"390",31433716,"2/25/2016 10:19:56 AM","","Open","Tree","Tree Complaints","11301 FAIR OAKS BLVD, Sacramento, CA, 95628",38.643454,-121.26344
+"391",31433816,"2/25/2016 11:38:17 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","5520 GENERALS PL, Sacramento, CA, 95660",38.724776,-120.809765
+"392",31433870,"2/25/2016 12:15:59 PM","","Open","Pavement","Pothole Sidewalk Complaints","6011 ARD AVEN PL, Sacramento, CA, 95608",38.608542,-121.325435
+"393",31433884,"2/25/2016 12:26:20 PM","","Open","Pavement","Ditches/Culverts","6133 W 2ND ST, Sacramento, CA, 95673",38.679194,-121.466172
+"394",31433886,"2/25/2016 12:27:13 PM","","Open","Pavement","Ditches/Culverts","6143 W 2ND ST, Sacramento, CA, 95673",38.679376,-121.466172
+"395",31433979,"2/25/2016 1:31:20 PM","","Open","Pavement","Pavement","3436 MAYFAIR DR, Sacramento, CA, 95864",38.583543,-121.38494
+"396",31434029,"2/25/2016 2:03:12 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","8141 GLEN COVE WAY, Sacramento, CA, 95828",38.462106,-121.375205
+"397",31434030,"2/25/2016 2:03:37 PM","","Open","Pavement","Pavement","6408 FILBERT AVE, Sacramento, CA, 95662",38.682593,-121.216117
+"398",31434050,"2/25/2016 2:18:06 PM","","Open","Traffic Sign Complaints","Street Light Complaints","5518 GEORGIA DR, Sacramento, CA, 95660",38.667594,-121.380275
+"399",31434152,"2/25/2016 3:42:10 PM","","Open","Pavement","Pothole - 110944","5300 ALDORAE ST, Sacramento, CA, 95628",38.66108,-121.306423
+"400",31434180,"2/25/2016 4:12:05 PM","","Open","Graffiti","Graffiti - 110956","10753 HOOD FRANKLIN RD, Sacramento, CA, 95639",38.367167,-121.514538
+"401",31434199,"2/25/2016 4:25:22 PM","","Open","Pavement","Pothole Sidewalk Complaints","7601 EL RENO AVE, Sacramento, CA, 95673",38.643437,-121.268207
+"402",31434215,"2/25/2016 4:46:48 PM","","Open","Traffic Sign Complaints","Street Light Complaints","5106 VISTA DEL ORO WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"403",31434219,"2/25/2016 4:49:53 PM","","Open","Traffic Sign Complaints","Street Light Complaints","7924 ROCKHURST WAY, Sacramento, CA, 95828",38.489264,-121.410842
+"404",31434226,"2/25/2016 5:05:55 PM","","Open","Traffic Sign Complaints","Traffic Signal Complaints","9700 GOETHE RD, Sacramento, CA, 95827",38.554715,-121.336197
+"405",31434284,"2/26/2016 6:45:24 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","1104 MORSE AVE, Sacramento, CA, 95864",38.585314,-121.392312
+"406",31434356,"2/26/2016 8:37:09 AM","","Open","Traffic Sign Complaints","Street Light Complaints","6321 OUTLOOK DR, Sacramento, CA, 95621",38.715083,-121.316921
+"407",31434363,"2/26/2016 8:41:25 AM","","Open","Graffiti","Graffiti Private Property","2638 EL PASEO LN, Sacramento, CA, 95821",38.618966,-121.400854
+"408",31434399,"2/26/2016 9:09:05 AM","","Open","Tree","Tree Complaints","2209 IONE ST, Sacramento, CA, 95864",38.605334,-121.371164
+"409",31434404,"2/26/2016 9:13:19 AM","","Open","Tree","Tree Complaints","7181 PALACE CIR, Sacramento, CA, 95628",38.659442,-121.296224
+"410",31434421,"2/26/2016 9:24:14 AM","","Open","Traffic Sign Complaints","Street Light Complaints","6235 39TH ST, Sacramento, CA, 95824",38.513047,-121.462677
+"411",31434464,"2/26/2016 9:53:54 AM","","Open","Pavement","Pothole Sidewalk Complaints","7200 WINDING WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"412",31434621,"2/26/2016 11:54:23 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","4210 CORTRIGHT WAY, Sacramento, CA, 95660",38.695299,-121.367746
+"413",31434761,"2/26/2016 1:37:49 PM","","Open","Traffic Sign Complaints","Street Light Complaints","4205 GLASCOW DR, Sacramento, CA, 95660",38.682447,-121.36754
+"414",31434785,"2/26/2016 2:01:35 PM","","Open","Pavement","Ditches/Culverts","440 Q ST, Sacramento, CA, 95673",38.698313,-121.456162
+"415",31434833,"2/26/2016 2:39:07 PM","","Open","Pavement","Pothole Sidewalk Complaints","4728 KEEMA AVE, Sacramento, CA, 95842",38.687529,-121.354818
+"416",31434837,"2/26/2016 2:41:54 PM","","Open","Pavement","Pothole Sidewalk Complaints","7624 9TH ST, Sacramento, CA, 95626",38.705497,-121.445638
+"417",31434838,"2/26/2016 2:42:21 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","5500 47TH AVE, Sacramento, CA, 95824",38.510472,-121.440768
+"418",31434863,"2/26/2016 3:06:36 PM","","Open","Pavement","Pavement","11511 SODA SPRINGS WAY, Sacramento, CA, 95670",38.622876,-121.250893
+"419",31434874,"2/26/2016 3:13:52 PM","","Open","Traffic Sign Complaints","Street Light Complaints","7613 OAK TOP WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"420",31435018,"2/26/2016 6:45:37 PM","","Open","Traffic Sign Complaints","Street Light Complaints","7531 MONOGRAM DR, Sacramento, CA, 95842",38.701214,-121.349529
+"421",31435026,"2/26/2016 7:07:59 PM","","Open","Traffic Sign Complaints","Street Light Complaints","4918 LAVELLE WAY, Sacramento, CA, 95841",38.656101,-121.357823
+"422",31435037,"2/26/2016 9:21:11 PM","","Open","Traffic Sign Complaints","Street Light Complaints","5419 LEQUEL WAY, Sacramento, CA, 95608",38.630382,-121.339104
+"423",31435050,"2/26/2016 10:32:14 PM","","Open","Traffic Sign Complaints","Street lighting - 111138","8278 GWINHURST CIR, Sacramento, CA, 95828",38.457432,-121.384005
+"424",31435053,"2/26/2016 10:42:07 PM","","Open","Traffic Sign Complaints","Street lighting - 111139","8278 GWINHURST CIR, Sacramento, CA, 95828",38.457432,-121.384005
+"425",31435059,"2/27/2016 8:11:29 AM","","Open","Abandoned Vehicles","Abandoned Vehicle","5586 KEONCREST CIR,Unit 4, Sacramento, CA, 95841",38.67251,-121.335646
+"426",31435119,"2/27/2016 2:32:06 PM","","Open","Tree","Tree - 111212","2632 FULTON AVE, Sacramento, CA, 95821",38.613858,-121.401498
+"427",31435154,"2/27/2016 5:56:03 PM","","Open","Abandoned Vehicles","Abandoned Vehicle","9556 MOSS HILL WAY, Sacramento, CA, 95829",38.657052,-121.445182
+"428",31435179,"2/28/2016 12:53:30 AM","","Open","Traffic Sign Complaints","Street Light Complaints","4244 CALLANAN CT, Sacramento, CA, 95608",38.642984,-121.316858
+"429",31435180,"2/28/2016 1:20:24 AM","","Open","Graffiti","Graffiti - 111163","9200 GREENBACK LN, Sacramento, CA, 95662",38.67825,-121.211615
+"430",31435215,"2/28/2016 11:02:09 AM","","Open","Graffiti","Graffiti - 111298","3957 GREY LIVERY WAY, Sacramento, CA, 95843",38.707442,-121.379706
+"431",31435226,"2/28/2016 11:32:07 AM","","Open","Traffic light","Traffic light - 111304","9416 MARIUS WAY, Sacramento, CA, 95829",38.457901,-121.349123
+"432",31435229,"2/28/2016 11:52:04 AM","","Open","Graffiti","Graffiti - 111308","8039 GOLDEN VISTA WAY, Sacramento, CA, 95843",38.715902,-121.344009
+"433",31435249,"2/28/2016 1:23:20 PM","","Open","Graffiti","Graffiti Private Property","8780 MADISON AVE, Sacramento, CA, 95628",38.643454,-121.26344
+"434",31435329,"2/28/2016 6:49:27 PM","","Open","Graffiti","Graffiti Public Right of Way","7111 WINDING WAY, Sacramento, CA, 95628",38.643437,-121.268207
+"435",31435342,"2/28/2016 8:32:08 PM","","Open","Graffiti","Graffiti - 111356","4758 DEL HABRA WAY, Sacramento, CA, 95608",38.651976,-121.314912

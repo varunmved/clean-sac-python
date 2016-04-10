@@ -6,10 +6,11 @@ library(sp)
 gpx <- read.csv("gpx.csv")
 
 clusts = kmeans(x = gpx[,c(1,2)], centers = 4)
+
 clusts$cluster[which(clusts$cluster == 3)] = 2
 clusts$cluster[which(clusts$cluster == 4)] = 3
 gpx$clust = clusts$cluster
-
+clusts$centers
 # grab google map
 map_coords <- geocode('arden arcade, california')
 
@@ -21,7 +22,7 @@ lon_range <- range(c(bb$ll.lon, bb$ur.lon))
 # contour plot
 SacMap <- ggmap(myMap, extent = 'device')
 
-#SacMap + geom_point(aes(x = lon, y = lat), data=gpx) + facet_wrap(~clust, ncol = 1)
+SacMap + geom_point(aes(x = lon, y = lat), data=gpx)# + facet_wrap(~clust, ncol = 1)
 
 
 overlay <- stat_density2d(
