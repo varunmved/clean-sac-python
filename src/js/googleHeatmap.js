@@ -1,47 +1,55 @@
 
 $(document).ready(function() {
+  
+  var map, heatmap;
+
+  function initMap() {
+    map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 10,
+      center: {lat: 38.5, lng: -121.4},
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    fetchListandCreateHeatMap(map);  
+  }
 
   initMap();
+  console.log("map created" + map)
+  
 
 })
 
-var map, heatmap;
-
-var dummyData = getPoints();
-var dummyData = processDataPoints(dummyData);
-
-
-function initMap() {
-  map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 13,
-    center: {lat: 38.5, lng: -121.4},
-    mapTypeId: google.maps.MapTypeId.SATELLITE
-  });
-
-  heatmap = new google.maps.visualization.HeatmapLayer({
-    data: dummyData,
-    map: map
-  });
-}
 
 function changeRadius() {
  	heatmap.set('radius', heatmap.get('radius') ? null : 20);
 }
 
 
-// Heatmap data: 500 Points
+function fetchListandCreateHeatMap(map) {
+  //var url = "http://159.203.247.240:8080/list.json"
+  var url = "data.json"
 
-function getTxtPoints() {
-  if (self.fetch) {
-    fetch('fix_random.txt')
-      .then(function(res) {
-        console.log(res.text());
-      })
-      .then(function(text) {
-        console.log(text);
-      })    
-  }
+  //{    mode: 'no-cors'  })
+  console.log("STARTING FETCH")
+  fetch(url)
+    .then(function(res) {
+      return res.json()
+    })
+    .then(function(json) {
+      console.log(json);
+      console.log("creating heatmap")
+      var googlePoints = processDataPoints(json);
+      console.log(googlePoints);
+      heatmap = new google.maps.visualization.HeatmapLayer({
+        data: googlePoints,
+        map: map,
+        radius: 20
+      });
+      console.log("heatmap created")
+      
+    })
 }
+
 function getPoints() {
 	var data = [];
 	var lat, lng;
@@ -67,7 +75,7 @@ function getPoints() {
 
 function processDataPoints(d) {
   var processedData = d.map(function(point) {
-    return new google.maps.LatLng(point.lat, point.lng);
+    return new google.maps.LatLng(point.LAT, point.LON);
   });
 
   return processedData;
