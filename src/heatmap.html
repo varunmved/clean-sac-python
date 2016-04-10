@@ -29,41 +29,22 @@
 
 		</div>
 
-		<div id="slideupBtn">
+		<div id="slideupBtn" >
 			<div>
 				<span>Filters</span>
 			</div>
 		</div>
-		<div id="trashReport">
-
-			<form class="trashForm">
-
-				<div class="title">Report Trash</div>
-				<div class="location">
-					<div class="form_titles">Pin Location</div>
-					<div class="form_latlong"></div>
-
-				</div>
-
-				<div class="description">
-					<label class="form_titles" for="description">Description</label>
-					<textarea rows="4" cols="40" class="form_inputs" id="description" type="text">
-
-					</textarea>				
-					
-				</div>
-				<div>
-					<input id="submitBtn" type="submit" value="Submit">
-					<input id="cancelBtn" type="button" value="Cancel">
-				</div>
-
-			</form>
+		<div id="filters">
+			<ul id="filtersList">
+				
+			</ul>
 
 		</div>
 	</div>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtYUGKLK0fn0sGHMkaKPlIJBdsFyaKu9A&libraries=visualization"></script>
 
 	<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/lodash/4.9.0/lodash.min.js"></script>
 	<script src="js/googleHeatmap.js"></script>
 
 </body>

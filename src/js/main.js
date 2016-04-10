@@ -52,13 +52,10 @@ window.onload = function() {
 			center = map.getCenter();
 			setFormMarkerLatLng();
 
-			
-
 			// $(".app__navbar").show();
 			// $("#slideup").show();
 
 		})
-
 	};
 
 	$("#slideupBtn").on("click", function() {

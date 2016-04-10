@@ -101,8 +101,14 @@
 	z-index: 1001;
 }
 
-#slideupBtn i{
+#slideupBtn i {
 	font-size: 2.5em;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+#slideupBtn span {
+	margin-top: .5em;
+	font-size: 1.8em;
 	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 
