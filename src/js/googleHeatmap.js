@@ -33,7 +33,13 @@ function changeRadius() {
 
 function getTxtPoints() {
   if (self.fetch) {
-    fetch('').    
+    fetch('fix_random.txt')
+      .then(function(res) {
+        console.log(res.text());
+      })
+      .then(function(text) {
+        console.log(text);
+      })    
   }
 }
 function getPoints() {
