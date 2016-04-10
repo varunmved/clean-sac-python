@@ -78,7 +78,17 @@ def cluster_coords(response):
         #df.append(pd.Series([lat,longi,cleaned],index=['lat','long','cleaned']),ignore_index=True)
         #df.append(pd.Series(['a','b','c'],index=['lat','long','cleaned']),ignore_index=True)
         df = df.append({'lat':lat,'long':longi,'cleaned':cleaned}, ignore_index=True)
-    
+        
+    lines = [line.rstrip('\n') for line in open('fix_random.txt')]
+    lines = lines[:-1]
+    for a in lines: 
+        a = a.split(',')
+        print(a)
+        rand_lat = float(a[0])
+        rand_long = float(a[1])
+        #print(rand_lat,rand_long)
+        coordsC.append([rand_lat,rand_long])
+
     distance_matrix = distance.squareform(distance.pdist(coordsC))
     db = DBSCAN(eps=0.03).fit(distance_matrix)
     #print(db.labels_)
@@ -98,6 +108,5 @@ def cluster_coords(response):
 
     print(df)
     '''
-    
 a = get_cord_matt()
 cluster_coords(a)
