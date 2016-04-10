@@ -29,36 +29,8 @@ def parseGPX():
 
 def get_cord_matt():
     #magical code to hit the endpoint
-    '''
-    r = requests.get('https://magicalmatt.com/')
+    r = requests.get("http://159.203.247.240:8080/list.json")
     response = r.json()
-    '''
-    response = json.loads("""[{
-        "id": "_1",
-            "reporter": "Morty",
-                "description": "Dead Rick",
-                    "timeReported": "2016.04.09.13.23.47",
-                        "latitude": "90.0",
-                            "longitude": "45.5",
-                                "timeCompleted": null
-                                }, {
-                                    "id": "_2",
-                                        "reporter": "Rick",
-                                            "description": "High Morty",
-                                                "timeReported": "2016.04.09.13.23.48",
-                                                    "latitude": "120.23",
-                                                        "longitude": "35.95",
-                                                            "timeCompleted": "right-about-now"
-                                                            }, {
-                                                                "id": "_3",
-                                                                    "reporter": "Blue",
-                                                                        "description": "Skadoo",
-                                                                            "timeReported": "2016.04.09.13.23.48",
-                                                                                "latitude": "129.32",
-                                                                                    "longitude": "32.33",
-                                                                                        "timeCompleted": null
-                                                                                        }]""")
-    
     return response
 
 def cluster_coords(response):
@@ -75,38 +47,44 @@ def cluster_coords(response):
         else:
             cleaned = True
             coordsC.append([lat,longi])
-        #df.append(pd.Series([lat,longi,cleaned],index=['lat','long','cleaned']),ignore_index=True)
-        #df.append(pd.Series(['a','b','c'],index=['lat','long','cleaned']),ignore_index=True)
         df = df.append({'lat':lat,'long':longi,'cleaned':cleaned}, ignore_index=True)
         
     lines = [line.rstrip('\n') for line in open('fix_random.txt')]
     lines = lines[:-1]
     for a in lines: 
         a = a.split(',')
-        print(a)
         rand_lat = float(a[0])
         rand_long = float(a[1])
-        #print(rand_lat,rand_long)
         coordsC.append([rand_lat,rand_long])
-
-    distance_matrix = distance.squareform(distance.pdist(coordsC))
-    db = DBSCAN(eps=0.03).fit(distance_matrix)
-    #print(db.labels_)
-    for k in set(db.labels_):
-        class_members = [index[0] for index in np.argwhere(db.labels_ == k)]
-        for index in class_members:
-            print '%s,%s' % (int(k), '{0},{1}'.format(*coordsC[index]))
-    '''
-    # Compute DBSCAN
-    db = DBSCAN(eps=0.3, min_samples=10).fit(X)
-    core_samples_mask = np.zeros_like(db.labels_, dtype=bool)
-    core_samples_mask[db.core_sample_indices_] = True
+        df = df.append({'lat':rand_lat,'long':rand_long,'cleaned':cleaned}, ignore_index=True)
+    
+    #DBSCAN
+    db = DBSCAN(eps=.1, min_samples=1).fit(df)
     labels = db.labels_
+    num_clusters = len(set(labels)) - (1 if -1 in labels else 0)
+    clusters = pd.Series([df[labels == i] for i in xrange(num_clusters)])
+    return clusters
+    #print(clusters)
+    #print('Number of clusters: %d' % num_clusters)
 
-    # Number of clusters in labels, ignoring noise if present.
-    n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
+def getCentroid(points):
+    n = points.shape[0]
+    sum_lon = np.sum(points[:, 1])
+    sum_lat = np.sum(points[:, 0])
+    return (sum_lon/n, sum_lat/n)
 
-    print(df)
-    '''
+def getNearestPoint(set_of_points, point_of_reference):
+    closest_point = None
+    closest_dist = None
+    for point in set_of_points:
+        point = (point[1], point[0])
+        dist = great_circle(point_of_reference, point).meters
+        if (closest_dist is None) or (dist < closest_dist):
+            closest_point = point
+            closest_dist = dist
+    return closest_point
+
+
 a = get_cord_matt()
-cluster_coords(a)
+print(a)
+#b = cluster_coords(a)
