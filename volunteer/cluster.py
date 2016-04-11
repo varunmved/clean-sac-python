@@ -6,8 +6,11 @@ import requests
 import json
 import numpy as np
 import pandas as pd
+#import matplotlib.pyplot as plt
 from sklearn.cluster import DBSCAN
 from scipy.spatial import distance
+
+DATA_URL = "http://10.113.219.153:3000/reports.json"
 
 def parseGPX():
     # read in the file
@@ -23,49 +26,68 @@ def parseGPX():
     # convert array of strings to single string
     out_lines = '\n'.join(out_lines)
 
-    print out_lines
+    #print out_lines
     # output to new file
     open('dest.txt', 'w').write(out_lines)
 
 def get_cord_matt():
     #magical code to hit the endpoint
-    r = requests.get("http://159.203.247.240:8080/list.json")
+    r = requests.get(DATA_URL)
     response = r.json()
     return response
 
 def cluster_coords(response):
     #create dataframe
-    df = pd.DataFrame(columns=['lat','long','cleaned'])
+    df = pd.DataFrame(columns=['lat','long','cleaned','type'])
     coordsC = [(0.0,0.0)]
     coordsP = [(0.0,0.0)]
     for a in response:
         lat = a['latitude']
         longi = a['longitude']
+        type = a['type']
         if a['timeCompleted'] is None:
             cleaned = False
             coordsP.append([lat,longi])
         else:
             cleaned = True
             coordsC.append([lat,longi])
-        df = df.append({'lat':lat,'long':longi,'cleaned':cleaned}, ignore_index=True)
+        df = df.append({'lat':lat,'long':longi,'cleaned':cleaned, 'type': type}, ignore_index=True)
         
-    lines = [line.rstrip('\n') for line in open('fix_random.txt')]
-    lines = lines[:-1]
-    for a in lines: 
-        a = a.split(',')
-        rand_lat = float(a[0])
-        rand_long = float(a[1])
-        coordsC.append([rand_lat,rand_long])
-        df = df.append({'lat':rand_lat,'long':rand_long,'cleaned':cleaned}, ignore_index=True)
+    #lines = [line.rstrip('\n') for line in open('fix_random.txt')]
+    #lines = lines[:-1]
+    #for a in lines: 
+    #    a = a.split(',')
+    #    rand_lat = float(a[0])
+    #    rand_long = float(a[1])
+    #    coordsC.append([rand_lat,rand_long])
+    #    df = df.append({'lat':rand_lat,'long':rand_long,'cleaned':cleaned}, ignore_index=True)
     
     #DBSCAN
-    db = DBSCAN(eps=.1, min_samples=1).fit(df)
-    labels = db.labels_
-    num_clusters = len(set(labels)) - (1 if -1 in labels else 0)
-    clusters = pd.Series([df[labels == i] for i in xrange(num_clusters)])
-    return clusters
+    #############need to work on these parameters
+    #db = DBSCAN(eps=.1, min_samples=10).fit(df)
+    #labels = db.labels_
+    #num_clusters = len(set(labels)) - (1 if -1 in labels else 0)
+    #clusters = pd.Series([df[labels == i] for i in xrange(num_clusters)])
+    groupByType = df['lat','long'].groupby(df['type'])
+    centroids = pd.DataFrame(columns=['lat','long','type','label'])
+    for group in groupByType:
+        db = DBSCAN(eps=.1,min_samples=10).fit(group)
+        core_samples_mask = np.zeros_like(db.labels_, dtype=bool)
+        core_samples_mask[db.core_sample_indices_] = True
+        labels = db.labels_
+        uniqueLabels = set(labels)
+        for label in uniqueLabels:
+            if(label != -1):
+                class_member_mask = (labels == k)
+                points = X[class_member_mask & core_samples_mask]
+                center = points.median()
+                centroids.append({'lat':center[0],'long':center[1],'type':group,'label':label})
+
+
+    print(centroids)
     #print(clusters)
     #print('Number of clusters: %d' % num_clusters)
+    return clusters
 
 def getCentroid(points):
     n = points.shape[0]
@@ -84,7 +106,6 @@ def getNearestPoint(set_of_points, point_of_reference):
             closest_dist = dist
     return closest_point
 
-
 a = get_cord_matt()
-print(a)
-#b = cluster_coords(a)
+#print(a)
+b = cluster_coords(a)
