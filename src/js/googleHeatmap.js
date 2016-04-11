@@ -65,7 +65,7 @@ logCurrentState();
 
 // --- Functions ---
 
-var map, heatmap, reportsJson;
+var map, heatmap, reportsJson, googleMVCArray;
 
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
@@ -96,7 +96,8 @@ function fetchListandCreateHeatMap(map) {
     .then(function(json) {
       console.log("creating heatmap")
       reportsJson = json;
-      var googlePoints = processDataPoints(reportsJson);
+
+      var googlePoints = processDataToGoogleArray(reportsJson);
       heatmap = new google.maps.visualization.HeatmapLayer({
         data: googlePoints,
         map: map,
@@ -108,9 +109,9 @@ function fetchListandCreateHeatMap(map) {
     })
 }
 
-function processDataPoints(data) {
+function processDataToGoogleArray(data) {
 
-  // Has a filter been flipped?
+  // Has a filter been flipped? 
 
   var toggledFilters = getToggledFilters();
   console.log(toggledFilters)
@@ -135,7 +136,7 @@ function processDataPoints(data) {
 
   }
 
-  return processedData;
+  return googleMVCArray = new google.maps.MVCArray(processedData);
 }
 
 function createFilterListItems() {
@@ -162,12 +163,38 @@ function getToggledFilters() {
 }
 
 function updateHeatmap() {
-  var googlePoints = processDataPoints(reportsJson);
-  heatmap = new google.maps.visualization.HeatmapLayer({
-    data: googlePoints,
-    setMap: map,
-    radius: 20
-  });
+  googleMVCArray.clear();
+  //reportsJson
+
+  var toggledFilters = getToggledFilters();
+  console.log(toggledFilters)
+
+  if (!toggledFilters.length) {
+
+    state.filterStatus = false;
+
+    reportsJson.map(function(point) {
+      googleMVCArray.push( new google.maps.LatLng(point.LAT, point.LON) );
+    });
+
+  }else{
+    state.filterStatus = true;
+
+    reportsJson.filter(function(data) {
+      return _.includes(toggledFilters, data.TYPE)
+    })
+    .map(function(point) {
+      googleMVCArray.push( new google.maps.LatLng(point.LAT, point.LON) );
+    });
+
+  }
+
+  //wont need dsfasdf
+  // heatmap = new google.maps.visualization.HeatmapLayer({
+  //   data: googlePoints,
+  //   setMap: map,
+  //   radius: 20
+  // });
   console.log("heatmap updated")
 }
 
