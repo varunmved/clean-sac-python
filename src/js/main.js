@@ -29,6 +29,7 @@ $(document).ready(function() {
 
 	$("#submitBtn").on("click", function(e) {
 		e.preventDefault();
+		//var url = `http://159.203.247.240:3000/create?description=${}&latitude=${}&longitude${}`
 		var url = "http://159.203.247.240:3000/reports.json"; //http://10.113.219.153:3000/
 
 		$.ajax({
