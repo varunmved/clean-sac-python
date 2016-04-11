@@ -125,6 +125,7 @@ function processDataToGoogleArray(data) {
     });
 
   }else{
+    
     state.filterStatus = true;
 
     var processedData = data.filter(function(data) {

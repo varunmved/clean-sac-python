@@ -172,4 +172,5 @@ html, body, #map {
 	resize: none;
 	margin-bottom: 5px;
 	width: 90%;
+	text-align: left;
 }
