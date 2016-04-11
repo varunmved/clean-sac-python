@@ -1,4 +1,4 @@
-window.onload = function() {
+$(document).ready(function() {
 
 	var center,
 			pos,
@@ -80,4 +80,4 @@ window.onload = function() {
 	
 
 	
-}
+});

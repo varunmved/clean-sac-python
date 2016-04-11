@@ -1,41 +1,4 @@
-
 $(document).ready(function() {
-  
-  var map, heatmap;
-
-  var filters = [
-    "Graffiti",
-    "Trees",
-    "Illegal Dumping",
-    "Pavement",
-    "Traffic Sign Complaints",
-    "Sweeper Request",
-    "Stray Animals",
-    "Abandoned Vehicles"
-  ];
-
-  filters = filters.map(function(filter) {
-    return {
-      "name": filter,
-      "checked": false
-    }
-  })
-
-  function initMap() {
-    map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 10,
-      center: {lat: 38.5, lng: -121.4},
-      mapTypeId: google.maps.MapTypeId.ROADMAP,
-      streetViewControl: true,
-      zoomControl: true,
-      zoomControlOptions: {
-          position: google.maps.ControlPosition.LEFT_TOP
-      },
-      mapTypeControl: false,
-    });
-
-    fetchListandCreateHeatMap(map);  
-  }
 
   initMap();
   console.log("map created")
@@ -53,47 +16,48 @@ $(document).ready(function() {
   createFilterEventListeners(filters);
   
 
-})
+});
 
-function createFilterList(filters) {
+// --- App State --- 
 
-  var filterHTML = filters.map(function(filter) {
-    return (
-      `<li id="${_.lowerCase(filter.name)}Filter">
-        ${filter.name} 
-        ${filter.checked? '<i class="fa fa-check"></i>' : ''}
+var state = {};
+state.filters = [
+    "Graffiti",
+    "Trees",
+    "Illegal Dumping",
+    "Pavement",
+    "Traffic Sign Complaints",
+    "Sweeper Request",
+    "Stray Animals",
+    "Abandoned Vehicles"
+  ];
+state.filters = state.filters.map(function(filter) {
+    return {
+      "name": filter,
+      "checked": false
+    }
+  });
+console.log(state);
 
-      </li>`
-    )
-  })
-  .join('')
+// --- Functions ---
 
-  return filterHTML;
+var map, heatmap;
+
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 10,
+    center: {lat: 38.5, lng: -121.4},
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    streetViewControl: true,
+    zoomControl: true,
+    zoomControlOptions: {
+        position: google.maps.ControlPosition.LEFT_TOP
+    },
+    mapTypeControl: false,
+  });
+
+  fetchListandCreateHeatMap(map);  
 }
-
-function createFilterEventListeners(filters) {
-  var element, target, index;
-  var newFilters = filters.map(function(filter) {
-    element = document.getElementById(_.lowerCase(filter.name) + "Filter");
-    element.addEventListener("click", function(e) {
-      target = e.target.innerHTML.trim();
-      if ( _.findIndex(filters, ['name', target]) ) {
-        filter.checked = true;
-        return filter;
-      }
-      return filter
-
-      //_.assign(filters[index], {"checked": true} )
-      
-
-    });
-  })
-
-  return newFilters;
-}
-
-
-
 
 function fetchListandCreateHeatMap(map) {
   //var url = "http://159.203.247.240:8080/list.json"
@@ -126,4 +90,42 @@ function processDataPoints(d) {
   });
 
   return processedData;
+}
+
+
+function createFilterEventListeners(filters) {
+  var element, target, index;
+  var newFilters = filters.map(function(filter) {
+    element = document.getElementById(_.lowerCase(filter.name) + "Filter");
+    element.addEventListener("click", function(e) {
+      target = e.target.innerHTML.trim();
+      if ( _.findIndex(filters, ['name', target]) ) {
+        filter.checked = true;
+        return filter;
+      }
+      return filter
+
+      //_.assign(filters[index], {"checked": true} )
+      
+
+    });
+  })
+
+  return newFilters;
+}
+
+function createFilterList(filters) {
+
+  var filterHTML = filters.map(function(filter) {
+    return (
+      `<li id="${_.lowerCase(filter.name)}Filter">
+        ${filter.name} 
+        ${filter.checked? '<i class="fa fa-check"></i>' : ''}
+
+      </li>`
+    )
+  })
+  .join('')
+
+  return filterHTML;
 }

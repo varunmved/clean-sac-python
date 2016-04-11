@@ -2,6 +2,12 @@
 	box-sizing; border-box;
 }
 
+html, body, #map {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
 #app {
 	color: #000;
 	background-color: #f7fafe; /*45603b*/
@@ -41,6 +47,7 @@
 }
 
 #dropdown {
+	display: none;
 	position: fixed;
 	top: 9%;
 
@@ -54,6 +61,7 @@
 }
 
 #dropdown.open {
+	display: block;
 	height: 35%;
 	opacity: 1;
 }
