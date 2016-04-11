@@ -36,6 +36,7 @@ $(document).ready(function() {
 			type: 'GET',
 		 	dataType: 'json',
 			success: function(data) {
+				console.log(data);
 				alert('Success!')
 			},
 			error: function(){ 
