@@ -84,10 +84,15 @@ function initMap() {
 }
 
 function fetchListandCreateHeatMap(map) {
+
+  // Display heat map is "loading..."
+  if (!state.loaded) {
+    $(".title").text("Loading...")
+  }
+
   //var url = "http://159.203.247.240:8080/list.json"
   var url = "data.json"
 
-  //{    mode: 'no-cors'  })
   console.log("STARTING FETCH")
   fetch(url)
     .then(function(res) {
@@ -104,6 +109,8 @@ function fetchListandCreateHeatMap(map) {
         radius: 20
       });
       state.loaded = true;
+      $(".title").text("Heat Map")
+
       console.log("heatmap loaded to map")
       
     })
@@ -125,7 +132,7 @@ function processDataToGoogleArray(data) {
     });
 
   }else{
-    
+
     state.filterStatus = true;
 
     var processedData = data.filter(function(data) {
@@ -202,4 +209,12 @@ function updateHeatmap() {
 function logCurrentState() {
   console.log("--- Current State: ---")
   console.log(state);
+}
+
+function heatmapLoaded() {
+  if (state.loaded) {
+    return true;
+  } else {
+    return false;
+  }
 }
