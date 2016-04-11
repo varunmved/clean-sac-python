@@ -6,8 +6,11 @@ import requests
 import json
 import numpy as np
 import pandas as pd
+#import matplotlib.pyplot as plt
 from sklearn.cluster import DBSCAN
 from scipy.spatial import distance
+
+DATA_URL = "http://10.113.219.153:3000/reports.json"
 
 def parseGPX():
     # read in the file
@@ -23,13 +26,13 @@ def parseGPX():
     # convert array of strings to single string
     out_lines = '\n'.join(out_lines)
 
-    print out_lines
+    #print out_lines
     # output to new file
     open('dest.txt', 'w').write(out_lines)
 
 def get_cord_matt():
     #magical code to hit the endpoint
-    r = requests.get("http://159.203.247.240:8080/list.json")
+    r = requests.get(DATA_URL)
     response = r.json()
     return response
 
@@ -63,9 +66,9 @@ def cluster_coords(response):
     labels = db.labels_
     num_clusters = len(set(labels)) - (1 if -1 in labels else 0)
     clusters = pd.Series([df[labels == i] for i in xrange(num_clusters)])
+    print(clusters)
+    print('Number of clusters: %d' % num_clusters)
     return clusters
-    #print(clusters)
-    #print('Number of clusters: %d' % num_clusters)
 
 def getCentroid(points):
     n = points.shape[0]
@@ -84,7 +87,6 @@ def getNearestPoint(set_of_points, point_of_reference):
             closest_dist = dist
     return closest_point
 
-
 a = get_cord_matt()
-print(a)
-#b = cluster_coords(a)
+#print(a)
+b = cluster_coords(a)
